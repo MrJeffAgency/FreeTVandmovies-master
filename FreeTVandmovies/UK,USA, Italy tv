@@ -1912,6 +1912,1540 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6216ae22c3bb
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18" tvg-id="5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/canelatv-v2-logo.png" group-title="USA" , Canela TV
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=SEh77JyJ5VSj77p-svsy
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-640205c40e1daf16b299567e" tvg-id="5e20b730f2f8d5003d739db7-640205c40e1daf16b299567e" tvg-logo="https://provider-static.plex.tv/c/epg/channels/logos/gracenote/cd5796a3e14bf45513f7b3071b90d030.png" group-title="USA" , Celebrity Name Game
+#EXTM3U x-tvg-url="https://i.mjh.nz/all/epg.xml.gz"
+
+#EXTINF:-1 channel-id="mjh-tvnz-1" tvg-id="mjh-tvnz-1" tvg-logo="https://i.mjh.nz/.images/tvnz-1.png" tvg-chno="1" group-title="Nz" , TVNZ 1
+https://i.mjh.nz/tvnz-1.m3u8
+
+#EXTINF:-1 channel-id="mjh-tvnz-2" tvg-id="mjh-tvnz-2" tvg-logo="https://i.mjh.nz/.images/tvnz-2.png" tvg-chno="2" group-title="Nz" , TVNZ 2
+https://i.mjh.nz/tvnz-2.m3u8
+
+#EXTINF:-1 channel-id="mjh-three" tvg-id="mjh-three" tvg-logo="https://i.mjh.nz/.images/three.png" tvg-chno="3" group-title="Nz" , Three
+https://i.mjh.nz/three.m3u8
+
+#EXTINF:-1 channel-id="mjh-bravo" tvg-id="mjh-bravo" tvg-logo="https://i.mjh.nz/.images/bravo.png" tvg-chno="4" group-title="Nz" , Bravo
+https://i.mjh.nz/bravo.m3u8
+
+#EXTINF:-1 channel-id="mjh-maori-tv" tvg-id="mjh-maori-tv" tvg-logo="https://i.mjh.nz/.images/maori-tv.png" tvg-chno="5" group-title="Nz" , Whakaata Māori
+https://i.mjh.nz/maori-tv.m3u8
+
+#EXTINF:-1 channel-id="mjh-tvnz-duke" tvg-id="mjh-tvnz-duke" tvg-logo="https://i.mjh.nz/.images/tvnz-duke.png" tvg-chno="6" group-title="Nz" , DUKE
+https://i.mjh.nz/tvnz-duke.m3u8
+
+#EXTINF:-1 channel-id="mjh-eden" tvg-id="mjh-eden" tvg-logo="https://i.mjh.nz/.images/eden.png" tvg-chno="8" group-title="Nz" , eden
+https://i.mjh.nz/eden.m3u8
+
+#EXTINF:-1 channel-id="mjh-rush-nz" tvg-id="mjh-rush-nz" tvg-logo="https://i.mjh.nz/.images/rush-nz.png" tvg-chno="14" group-title="Nz" , RUSH
+https://i.mjh.nz/rush-nz.m3u8
+
+#EXTINF:-1 channel-id="mjh-te-reo" tvg-id="mjh-te-reo" tvg-logo="https://i.mjh.nz/.images/te-reo.png" tvg-chno="10" group-title="Nz" , Te Reo
+https://i.mjh.nz/te-reo.m3u8
+
+#EXTINF:-1 channel-id="mjh-prime" tvg-id="mjh-prime" tvg-logo="https://i.mjh.nz/.images/prime.png" tvg-chno="15" group-title="Nz" , PRIME
+https://i.mjh.nz/prime.m3u8
+
+#EXTINF:-1 channel-id="mjh-hgtv" tvg-id="mjh-hgtv" tvg-logo="https://i.mjh.nz/.images/hgtv.png" tvg-chno="19" group-title="Nz" , HGTV
+https://i.mjh.nz/hgtv.m3u8
+
+#EXTINF:-1 channel-id="mjh-al-jazeera" tvg-id="mjh-al-jazeera" tvg-logo="https://i.mjh.nz/.images/al-jazeera.png" tvg-chno="20" group-title="Nz" , Al Jazeera
+https://i.mjh.nz/al-jazeera.m3u8
+
+#EXTINF:-1 channel-id="mjh-prime-plus1" tvg-id="mjh-prime-plus1" tvg-logo="https://i.mjh.nz/.images/prime-plus1.png" tvg-chno="21" group-title="Nz" , PRIME +1
+https://i.mjh.nz/prime-plus1.m3u8
+
+#EXTINF:-1 channel-id="mjh-shine-tv" tvg-id="mjh-shine-tv" tvg-logo="https://i.mjh.nz/.images/shine-tv.png" tvg-chno="25" group-title="Nz" , Shine TV
+https://i.mjh.nz/shine-tv.m3u8
+
+#EXTINF:-1 channel-id="mjh-firstlight" tvg-id="mjh-firstlight" tvg-logo="https://i.mjh.nz/.images/firstlight.png" tvg-chno="26" group-title="Nz" , Firstlight
+https://i.mjh.nz/firstlight.m3u8
+
+#EXTINF:-1 channel-id="mjh-hope-channel" tvg-id="mjh-hope-channel" tvg-logo="https://i.mjh.nz/.images/hope-channel.png" tvg-chno="27" group-title="Nz" , Hope Channel
+https://c.mjh.nz/hope-channel.m3u8
+
+#EXTINF:-1 channel-id="mjh-chinese-tv28" tvg-id="mjh-chinese-tv28" tvg-logo="https://i.mjh.nz/.images/chinese-tv28.png" tvg-chno="28" group-title="Nz" , Chinese TV28
+https://i.mjh.nz/chinese-tv28.m3u8
+
+#EXTINF:-1 channel-id="mjh-chinese-tv29" tvg-id="mjh-chinese-tv29" tvg-logo="https://i.mjh.nz/.images/chinese-tv29.png" tvg-chno="29" group-title="Nz" , Chinese TV29
+https://i.mjh.nz/chinese-tv29.m3u8
+
+#EXTINF:-1 channel-id="mjh-parliament-tv" tvg-id="mjh-parliament-tv" tvg-logo="https://i.mjh.nz/.images/parliament-tv.png" tvg-chno="31" group-title="Nz" , Parliament TV
+https://i.mjh.nz/parliament-tv.m3u8
+
+#EXTINF:-1 channel-id="mjh-apna-television" tvg-id="mjh-apna-television" tvg-logo="https://i.mjh.nz/.images/apna-television.png" tvg-chno="36" group-title="Nz" , APNA Television
+https://i.mjh.nz/apna-television.m3u8
+
+#EXTINF:-1 channel-id="mjh-panda-tv" tvg-id="mjh-panda-tv" tvg-logo="https://i.mjh.nz/.images/panda-tv.png" tvg-chno="37" group-title="Nz" , Panda TV
+https://i.mjh.nz/panda-tv.m3u8
+
+#EXTINF:-1 channel-id="mjh-wairarapa-tv" tvg-id="mjh-wairarapa-tv" tvg-logo="https://i.mjh.nz/.images/wairarapa-tv.png" tvg-chno="41" group-title="Nz" , Wairarapa TV
+https://i.mjh.nz/wairarapa-tv.m3u
+
+#EXTINF:-1 channel-id="mjh-trackside-1" tvg-id="mjh-trackside-1" tvg-logo="https://i.mjh.nz/.images/trackside-1.png" tvg-chno="62" group-title="Nz" , TAB Trackside 1
+https://i.mjh.nz/trackside-1.m3u8
+
+#EXTINF:-1 channel-id="mjh-trackside-2" tvg-id="mjh-trackside-2" tvg-logo="https://i.mjh.nz/.images/trackside-2.png" tvg-chno="63" group-title="Nz" , TAB Trackside 2
+https://i.mjh.nz/trackside-2.m3u8
+
+#EXTINF:-1 channel-id="mjh-ch200" tvg-id="mjh-ch200" tvg-logo="https://i.mjh.nz/.images/ch200.png" tvg-chno="200" group-title="Nz" , CH200
+https://i.mjh.nz/ch200.m3u8
+
+#EXTINF:-1 channel-id="mjh-juice-tv" tvg-id="mjh-juice-tv" tvg-logo="https://i.mjh.nz/.images/juice-tv.png" group-title="Nz" , Juice TV
+https://i.mjh.nz/juice-tv.m3u8
+
+#EXTINF:-1 channel-id="mjh-tvsn-shopping" tvg-id="mjh-tvsn-shopping" tvg-logo="https://i.mjh.nz/.images/tvsn-shopping.png" group-title="Nz" , TVSN Shopping
+https://i.mjh.nz/tvsn-shopping.m3u8
+
+#EXTINF:-1 channel-id="mjh-three-sport" tvg-id="mjh-three-sport" tvg-logo="https://i.mjh.nz/.images/three-sport.png" group-title="Nz" , Three Sport
+https://i.mjh.nz/three-sport.m3u8
+
+#EXTINF:-1 channel-id="mjh-seven-syd" tvg-id="mjh-seven-syd" tvg-logo="https://i.mjh.nz/.images/seven-syd.png" tvg-chno="7" group-title="Sydney" , Seven
+https://i.mjh.nz/seven-syd.m3u8
+
+#EXTINF:-1 channel-id="mjh-7two-syd" tvg-id="mjh-7two-syd" tvg-logo="https://i.mjh.nz/.images/7two-syd.png" tvg-chno="72" group-title="Sydney" , 7two
+https://i.mjh.nz/7two-syd.m3u8
+
+#EXTINF:-1 channel-id="mjh-7mate-syd" tvg-id="mjh-7mate-syd" tvg-logo="https://i.mjh.nz/.images/7mate-syd.png" tvg-chno="74" group-title="Sydney" , 7mate
+https://i.mjh.nz/7mate-syd.m3u8
+
+#EXTINF:-1 channel-id="mjh-7flix-syd" tvg-id="mjh-7flix-syd" tvg-logo="https://i.mjh.nz/.images/7flix-syd.png" tvg-chno="76" group-title="Sydney" , 7flix
+https://i.mjh.nz/7flix-syd.m3u8
+
+#EXTINF:-1 channel-id="mjh-channel-9-nsw" tvg-id="mjh-channel-9-nsw" tvg-logo="https://imageresizer.static9.net.au/HtBnd8GsZ-0m6XU8owz7-XYATt4=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F11%2F9_Colour_RGB.png" tvg-chno="9" group-title="Sydney" , Channel 9
+https://i.mjh.nz/channel-9-nsw.m3u8
+
+#EXTINF:-1 channel-id="mjh-gem-nsw" tvg-id="mjh-gem-nsw" tvg-logo="https://imageresizer.static9.net.au/R-kis1RnwsPGXmfbHFBfe36kU68=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F13%2F9Gem_Colour_RGB.png" tvg-chno="92" group-title="Sydney" , 9Gem
+https://i.mjh.nz/gem-nsw.m3u8
+
+#EXTINF:-1 channel-id="mjh-go-nsw" tvg-id="mjh-go-nsw" tvg-logo="https://imageresizer.static9.net.au/22I0ZFSBVvijX3R1EJxoC5wKtfc=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F12%2F9Go_Colour_RGB.png" tvg-chno="93" group-title="Sydney" , 9Go!
+https://i.mjh.nz/go-nsw.m3u8
+
+#EXTINF:-1 channel-id="mjh-life-nsw" tvg-id="mjh-life-nsw" tvg-logo="https://imageresizer.static9.net.au/eeHbR53TZ7qVQHBqns859ySz0nM=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F14%2F9Life_Colour_RGB.png" tvg-chno="94" group-title="Sydney" , 9Life
+https://i.mjh.nz/life-nsw.m3u8
+
+#EXTINF:-1 channel-id="mjh-rush-nsw" tvg-id="mjh-rush-nsw" tvg-logo="https://imageresizer.static9.net.au/uFJ9ulq8ZfWgBguBhcaZtXPJ9Bc=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2020%2F01%2F275893%2F9Rush_Colour_RGB.png" tvg-chno="96" group-title="Sydney" , 9Rush
+https://i.mjh.nz/rush-nsw.m3u8
+
+#EXTINF:-1 channel-id="mjh-abc-nsw" tvg-id="mjh-abc-nsw" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" tvg-chno="2" group-title="Sydney" , ABC TV
+https://c.mjh.nz/abc-nsw.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-nsw" tvg-id="mjh-10-nsw" tvg-logo="https://i.mjh.nz/.images/10-nsw.png" tvg-chno="10" group-title="Sydney" , 10
+https://i.mjh.nz/10-nsw.m3u8
+
+#EXTINF:-1 channel-id="mjh-10bold-nsw" tvg-id="mjh-10bold-nsw" tvg-logo="https://i.mjh.nz/.images/10bold-nsw.png" tvg-chno="12" group-title="Sydney" , 10 BOLD
+https://i.mjh.nz/10bold-nsw.m3u8
+
+#EXTINF:-1 channel-id="mjh-10peach-nsw" tvg-id="mjh-10peach-nsw" tvg-logo="https://i.mjh.nz/.images/10peach-nsw.png" tvg-chno="11" group-title="Sydney" , 10 Peach
+https://i.mjh.nz/10peach-nsw.m3u8
+
+#EXTINF:-1 channel-id="mjh-10shake-nsw" tvg-id="mjh-10shake-nsw" tvg-logo="https://i.mjh.nz/.images/10-nickelodeon.png" tvg-chno="13" group-title="Sydney" , Nickelodeon
+https://i.mjh.nz/10shake-nsw.m3u8
+
+#EXTINF:-1 channel-id="mjh-snowy-mountains" tvg-id="mjh-snowy-mountains" tvg-logo="https://i.mjh.nz/.images/snowy-mountains.png" group-title="Sydney" , Snowy Mountains Television
+https://i.mjh.nz/snowy-mountains.m3u8
+
+#EXTINF:-1 channel-id="mjh-seven-mel" tvg-id="mjh-seven-mel" tvg-logo="https://i.mjh.nz/.images/seven-mel.png" tvg-chno="7" group-title="Melbourne" , Seven
+https://i.mjh.nz/seven-mel.m3u8
+
+#EXTINF:-1 channel-id="mjh-7two-mel" tvg-id="mjh-7two-mel" tvg-logo="https://i.mjh.nz/.images/7two-mel.png" tvg-chno="72" group-title="Melbourne" , 7two
+https://i.mjh.nz/7two-mel.m3u8
+
+#EXTINF:-1 channel-id="mjh-7mate-mel" tvg-id="mjh-7mate-mel" tvg-logo="https://i.mjh.nz/.images/7mate-mel.png" tvg-chno="74" group-title="Melbourne" , 7mate
+https://i.mjh.nz/7mate-mel.m3u8
+
+#EXTINF:-1 channel-id="mjh-7flix-mel" tvg-id="mjh-7flix-mel" tvg-logo="https://i.mjh.nz/.images/7flix-mel.png" tvg-chno="76" group-title="Melbourne" , 7flix
+https://i.mjh.nz/7flix-mel.m3u8
+
+#EXTINF:-1 channel-id="mjh-channel-9-vic" tvg-id="mjh-channel-9-vic" tvg-logo="https://imageresizer.static9.net.au/HtBnd8GsZ-0m6XU8owz7-XYATt4=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F11%2F9_Colour_RGB.png" tvg-chno="9" group-title="Melbourne" , Channel 9
+https://i.mjh.nz/channel-9-vic.m3u8
+
+#EXTINF:-1 channel-id="mjh-gem-vic" tvg-id="mjh-gem-vic" tvg-logo="https://imageresizer.static9.net.au/R-kis1RnwsPGXmfbHFBfe36kU68=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F13%2F9Gem_Colour_RGB.png" tvg-chno="92" group-title="Melbourne" , 9Gem
+https://i.mjh.nz/gem-vic.m3u8
+
+#EXTINF:-1 channel-id="mjh-go-vic" tvg-id="mjh-go-vic" tvg-logo="https://imageresizer.static9.net.au/22I0ZFSBVvijX3R1EJxoC5wKtfc=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F12%2F9Go_Colour_RGB.png" tvg-chno="93" group-title="Melbourne" , 9Go!
+https://i.mjh.nz/go-vic.m3u8
+
+#EXTINF:-1 channel-id="mjh-life-vic" tvg-id="mjh-life-vic" tvg-logo="https://imageresizer.static9.net.au/eeHbR53TZ7qVQHBqns859ySz0nM=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F14%2F9Life_Colour_RGB.png" tvg-chno="94" group-title="Melbourne" , 9Life
+https://i.mjh.nz/life-vic.m3u8
+
+#EXTINF:-1 channel-id="mjh-rush-vic" tvg-id="mjh-rush-vic" tvg-logo="https://imageresizer.static9.net.au/uFJ9ulq8ZfWgBguBhcaZtXPJ9Bc=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2020%2F01%2F275893%2F9Rush_Colour_RGB.png" tvg-chno="96" group-title="Melbourne" , 9Rush
+https://i.mjh.nz/rush-vic.m3u8
+
+#EXTINF:-1 channel-id="mjh-abc-vic" tvg-id="mjh-abc-vic" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" tvg-chno="2" group-title="Melbourne" , ABC TV
+https://c.mjh.nz/abc-vic.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-vic" tvg-id="mjh-10-vic" tvg-logo="https://i.mjh.nz/.images/10-nsw.png" tvg-chno="10" group-title="Melbourne" , 10
+https://i.mjh.nz/10-vic.m3u8
+
+#EXTINF:-1 channel-id="mjh-10bold-vic" tvg-id="mjh-10bold-vic" tvg-logo="https://i.mjh.nz/.images/10bold-nsw.png" tvg-chno="12" group-title="Melbourne" , 10 BOLD
+https://i.mjh.nz/10bold-vic.m3u8
+
+#EXTINF:-1 channel-id="mjh-10peach-vic" tvg-id="mjh-10peach-vic" tvg-logo="https://i.mjh.nz/.images/10peach-nsw.png" tvg-chno="11" group-title="Melbourne" , 10 Peach
+https://i.mjh.nz/10peach-vic.m3u8
+
+#EXTINF:-1 channel-id="mjh-10shake-vic" tvg-id="mjh-10shake-vic" tvg-logo="https://i.mjh.nz/.images/10-nickelodeon.png" tvg-chno="13" group-title="Melbourne" , Nickelodeon
+https://i.mjh.nz/10shake-vic.m3u8
+
+#EXTINF:-1 channel-id="mjh-c31" tvg-id="mjh-c31" tvg-logo="https://i.mjh.nz/.images/c31.png" tvg-chno="44" group-title="Melbourne" , Channel 31
+https://i.mjh.nz/c31.m3u8
+
+#EXTINF:-1 channel-id="mjh-3aw-melbourne" tvg-id="mjh-3aw-melbourne" tvg-logo="https://i.mjh.nz/.images/3aw-melbourne.png" group-title="Melbourne" , 3AW Melbourne
+https://i.mjh.nz/3aw-melbourne.m3u8
+
+#EXTINF:-1 channel-id="mjh-seven-bri" tvg-id="mjh-seven-bri" tvg-logo="https://i.mjh.nz/.images/seven-bri.png" tvg-chno="7" group-title="Brisbane" , Seven
+https://i.mjh.nz/seven-bri.m3u8
+
+#EXTINF:-1 channel-id="mjh-7two-bri" tvg-id="mjh-7two-bri" tvg-logo="https://i.mjh.nz/.images/7two-bri.png" tvg-chno="72" group-title="Brisbane" , 7two
+https://i.mjh.nz/7two-bri.m3u8
+
+#EXTINF:-1 channel-id="mjh-7mate-bri" tvg-id="mjh-7mate-bri" tvg-logo="https://i.mjh.nz/.images/7mate-bri.png" tvg-chno="74" group-title="Brisbane" , 7mate
+https://i.mjh.nz/7mate-bri.m3u8
+
+#EXTINF:-1 channel-id="mjh-7flix-bri" tvg-id="mjh-7flix-bri" tvg-logo="https://i.mjh.nz/.images/7flix-bri.png" tvg-chno="76" group-title="Brisbane" , 7flix
+https://i.mjh.nz/7flix-bri.m3u8
+
+#EXTINF:-1 channel-id="mjh-channel-9-qld" tvg-id="mjh-channel-9-qld" tvg-logo="https://imageresizer.static9.net.au/HtBnd8GsZ-0m6XU8owz7-XYATt4=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F11%2F9_Colour_RGB.png" tvg-chno="9" group-title="Brisbane" , Channel 9
+https://i.mjh.nz/channel-9-qld.m3u8
+
+#EXTINF:-1 channel-id="mjh-gem-qld" tvg-id="mjh-gem-qld" tvg-logo="https://imageresizer.static9.net.au/R-kis1RnwsPGXmfbHFBfe36kU68=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F13%2F9Gem_Colour_RGB.png" tvg-chno="92" group-title="Brisbane" , 9Gem
+https://i.mjh.nz/gem-qld.m3u8
+
+#EXTINF:-1 channel-id="mjh-go-qld" tvg-id="mjh-go-qld" tvg-logo="https://imageresizer.static9.net.au/22I0ZFSBVvijX3R1EJxoC5wKtfc=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F12%2F9Go_Colour_RGB.png" tvg-chno="93" group-title="Brisbane" , 9Go!
+https://i.mjh.nz/go-qld.m3u8
+
+#EXTINF:-1 channel-id="mjh-life-qld" tvg-id="mjh-life-qld" tvg-logo="https://imageresizer.static9.net.au/eeHbR53TZ7qVQHBqns859ySz0nM=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F14%2F9Life_Colour_RGB.png" tvg-chno="94" group-title="Brisbane" , 9Life
+https://i.mjh.nz/life-qld.m3u8
+
+#EXTINF:-1 channel-id="mjh-rush-qld" tvg-id="mjh-rush-qld" tvg-logo="https://imageresizer.static9.net.au/uFJ9ulq8ZfWgBguBhcaZtXPJ9Bc=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2020%2F01%2F275893%2F9Rush_Colour_RGB.png" tvg-chno="96" group-title="Brisbane" , 9Rush
+https://i.mjh.nz/rush-qld.m3u8
+
+#EXTINF:-1 channel-id="mjh-abc-qld" tvg-id="mjh-abc-qld" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" tvg-chno="2" group-title="Brisbane" , ABC TV
+https://c.mjh.nz/abc-qld.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-qld" tvg-id="mjh-10-qld" tvg-logo="https://i.mjh.nz/.images/10-nsw.png" tvg-chno="10" group-title="Brisbane" , 10
+https://i.mjh.nz/10-qld.m3u8
+
+#EXTINF:-1 channel-id="mjh-10bold-qld" tvg-id="mjh-10bold-qld" tvg-logo="https://i.mjh.nz/.images/10bold-nsw.png" tvg-chno="12" group-title="Brisbane" , 10 BOLD
+https://i.mjh.nz/10bold-qld.m3u8
+
+#EXTINF:-1 channel-id="mjh-10peach-qld" tvg-id="mjh-10peach-qld" tvg-logo="https://i.mjh.nz/.images/10peach-nsw.png" tvg-chno="11" group-title="Brisbane" , 10 Peach
+https://i.mjh.nz/10peach-qld.m3u8
+
+#EXTINF:-1 channel-id="mjh-10shake-qld" tvg-id="mjh-10shake-qld" tvg-logo="https://i.mjh.nz/.images/10-nickelodeon.png" tvg-chno="13" group-title="Brisbane" , Nickelodeon
+https://i.mjh.nz/10shake-qld.m3u8
+
+#EXTINF:-1 channel-id="mjh-seven-per" tvg-id="mjh-seven-per" tvg-logo="https://i.mjh.nz/.images/seven-per.png" tvg-chno="7" group-title="Perth" , Seven
+https://i.mjh.nz/seven-per.m3u8
+
+#EXTINF:-1 channel-id="mjh-7two-per" tvg-id="mjh-7two-per" tvg-logo="https://i.mjh.nz/.images/7two-per.png" tvg-chno="72" group-title="Perth" , 7two
+https://i.mjh.nz/7two-per.m3u8
+
+#EXTINF:-1 channel-id="mjh-7mate-per" tvg-id="mjh-7mate-per" tvg-logo="https://i.mjh.nz/.images/7mate-per.png" tvg-chno="74" group-title="Perth" , 7mate
+https://i.mjh.nz/7mate-per.m3u8
+
+#EXTINF:-1 channel-id="mjh-7flix-per" tvg-id="mjh-7flix-per" tvg-logo="https://i.mjh.nz/.images/7flix-per.png" tvg-chno="76" group-title="Perth" , 7flix
+https://i.mjh.nz/7flix-per.m3u8
+
+#EXTINF:-1 channel-id="mjh-channel-9-wa" tvg-id="mjh-channel-9-wa" tvg-logo="https://imageresizer.static9.net.au/HtBnd8GsZ-0m6XU8owz7-XYATt4=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F11%2F9_Colour_RGB.png" tvg-chno="9" group-title="Perth" , Channel 9
+https://i.mjh.nz/channel-9-wa.m3u8
+
+#EXTINF:-1 channel-id="mjh-gem-wa" tvg-id="mjh-gem-wa" tvg-logo="https://imageresizer.static9.net.au/R-kis1RnwsPGXmfbHFBfe36kU68=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F13%2F9Gem_Colour_RGB.png" tvg-chno="92" group-title="Perth" , 9Gem
+https://i.mjh.nz/gem-wa.m3u8
+
+#EXTINF:-1 channel-id="mjh-go-wa" tvg-id="mjh-go-wa" tvg-logo="https://imageresizer.static9.net.au/22I0ZFSBVvijX3R1EJxoC5wKtfc=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F12%2F9Go_Colour_RGB.png" tvg-chno="93" group-title="Perth" , 9Go!
+https://i.mjh.nz/go-wa.m3u8
+
+#EXTINF:-1 channel-id="mjh-life-wa" tvg-id="mjh-life-wa" tvg-logo="https://imageresizer.static9.net.au/eeHbR53TZ7qVQHBqns859ySz0nM=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F14%2F9Life_Colour_RGB.png" tvg-chno="94" group-title="Perth" , 9Life
+https://i.mjh.nz/life-wa.m3u8
+
+#EXTINF:-1 channel-id="mjh-rush-wa" tvg-id="mjh-rush-wa" tvg-logo="https://imageresizer.static9.net.au/uFJ9ulq8ZfWgBguBhcaZtXPJ9Bc=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2020%2F01%2F275893%2F9Rush_Colour_RGB.png" tvg-chno="96" group-title="Perth" , 9Rush
+https://i.mjh.nz/rush-wa.m3u8
+
+#EXTINF:-1 channel-id="mjh-abc-wa" tvg-id="mjh-abc-wa" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" tvg-chno="2" group-title="Perth" , ABC TV
+https://c.mjh.nz/abc-wa.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-wa" tvg-id="mjh-10-wa" tvg-logo="https://i.mjh.nz/.images/10-nsw.png" tvg-chno="10" group-title="Perth" , 10
+https://i.mjh.nz/10-wa.m3u8
+
+#EXTINF:-1 channel-id="mjh-10bold-wa" tvg-id="mjh-10bold-wa" tvg-logo="https://i.mjh.nz/.images/10bold-nsw.png" tvg-chno="12" group-title="Perth" , 10 BOLD
+https://i.mjh.nz/10bold-wa.m3u8
+
+#EXTINF:-1 channel-id="mjh-10peach-wa" tvg-id="mjh-10peach-wa" tvg-logo="https://i.mjh.nz/.images/10peach-nsw.png" tvg-chno="11" group-title="Perth" , 10 Peach
+https://i.mjh.nz/10peach-wa.m3u8
+
+#EXTINF:-1 channel-id="mjh-10shake-wa" tvg-id="mjh-10shake-wa" tvg-logo="https://i.mjh.nz/.images/10-nickelodeon.png" tvg-chno="13" group-title="Perth" , Nickelodeon
+https://i.mjh.nz/10shake-wa.m3u8
+
+#EXTINF:-1 channel-id="mjh-seven-ade" tvg-id="mjh-seven-ade" tvg-logo="https://i.mjh.nz/.images/seven-ade.png" tvg-chno="7" group-title="Adelaide" , Seven
+https://i.mjh.nz/seven-ade.m3u8
+
+#EXTINF:-1 channel-id="mjh-7two-ade" tvg-id="mjh-7two-ade" tvg-logo="https://i.mjh.nz/.images/7two-ade.png" tvg-chno="72" group-title="Adelaide" , 7two
+https://i.mjh.nz/7two-ade.m3u8
+
+#EXTINF:-1 channel-id="mjh-7mate-ade" tvg-id="mjh-7mate-ade" tvg-logo="https://i.mjh.nz/.images/7mate-ade.png" tvg-chno="74" group-title="Adelaide" , 7mate
+https://i.mjh.nz/7mate-ade.m3u8
+
+#EXTINF:-1 channel-id="mjh-7flix-ade" tvg-id="mjh-7flix-ade" tvg-logo="https://i.mjh.nz/.images/7flix-ade.png" tvg-chno="76" group-title="Adelaide" , 7flix
+https://i.mjh.nz/7flix-ade.m3u8
+
+#EXTINF:-1 channel-id="mjh-channel-9-sa" tvg-id="mjh-channel-9-sa" tvg-logo="https://imageresizer.static9.net.au/HtBnd8GsZ-0m6XU8owz7-XYATt4=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F11%2F9_Colour_RGB.png" tvg-chno="9" group-title="Adelaide" , Channel 9
+https://i.mjh.nz/channel-9-sa.m3u8
+
+#EXTINF:-1 channel-id="mjh-gem-sa" tvg-id="mjh-gem-sa" tvg-logo="https://imageresizer.static9.net.au/R-kis1RnwsPGXmfbHFBfe36kU68=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F13%2F9Gem_Colour_RGB.png" tvg-chno="92" group-title="Adelaide" , 9Gem
+https://i.mjh.nz/gem-sa.m3u8
+
+#EXTINF:-1 channel-id="mjh-go-sa" tvg-id="mjh-go-sa" tvg-logo="https://imageresizer.static9.net.au/22I0ZFSBVvijX3R1EJxoC5wKtfc=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F12%2F9Go_Colour_RGB.png" tvg-chno="93" group-title="Adelaide" , 9Go!
+https://i.mjh.nz/go-sa.m3u8
+
+#EXTINF:-1 channel-id="mjh-life-sa" tvg-id="mjh-life-sa" tvg-logo="https://imageresizer.static9.net.au/eeHbR53TZ7qVQHBqns859ySz0nM=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F14%2F9Life_Colour_RGB.png" tvg-chno="94" group-title="Adelaide" , 9Life
+https://i.mjh.nz/life-sa.m3u8
+
+#EXTINF:-1 channel-id="mjh-rush-sa" tvg-id="mjh-rush-sa" tvg-logo="https://imageresizer.static9.net.au/uFJ9ulq8ZfWgBguBhcaZtXPJ9Bc=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2020%2F01%2F275893%2F9Rush_Colour_RGB.png" tvg-chno="96" group-title="Adelaide" , 9Rush
+https://i.mjh.nz/rush-sa.m3u8
+
+#EXTINF:-1 channel-id="mjh-abc-sa" tvg-id="mjh-abc-sa" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" tvg-chno="2" group-title="Adelaide" , ABC TV
+https://c.mjh.nz/abc-sa.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-sa" tvg-id="mjh-10-sa" tvg-logo="https://i.mjh.nz/.images/10-nsw.png" tvg-chno="10" group-title="Adelaide" , 10
+https://i.mjh.nz/10-sa.m3u8
+
+#EXTINF:-1 channel-id="mjh-10bold-sa" tvg-id="mjh-10bold-sa" tvg-logo="https://i.mjh.nz/.images/10bold-nsw.png" tvg-chno="12" group-title="Adelaide" , 10 BOLD
+https://i.mjh.nz/10bold-sa.m3u8
+
+#EXTINF:-1 channel-id="mjh-10peach-sa" tvg-id="mjh-10peach-sa" tvg-logo="https://i.mjh.nz/.images/10peach-nsw.png" tvg-chno="11" group-title="Adelaide" , 10 Peach
+https://i.mjh.nz/10peach-sa.m3u8
+
+#EXTINF:-1 channel-id="mjh-10shake-sa" tvg-id="mjh-10shake-sa" tvg-logo="https://i.mjh.nz/.images/10-nickelodeon.png" tvg-chno="13" group-title="Adelaide" , Nickelodeon
+https://i.mjh.nz/10shake-sa.m3u8
+
+#EXTINF:-1 channel-id="mjh-c44" tvg-id="mjh-c44" tvg-logo="https://i.mjh.nz/.images/c44.png" tvg-chno="44" group-title="Adelaide" , Channel 44
+https://i.mjh.nz/c44.m3u8
+
+#EXTINF:-1 channel-id="mjh-abc-act" tvg-id="mjh-abc-act" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" tvg-chno="2" group-title="Canberra" , ABC TV
+https://c.mjh.nz/abc-act.m3u8
+
+#EXTINF:-1 channel-id="mjh-abc-nt" tvg-id="mjh-abc-nt" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" tvg-chno="2" group-title="Darwin" , ABC TV
+https://c.mjh.nz/abc-nt.m3u8
+
+#EXTINF:-1 channel-id="mjh-abc-tas" tvg-id="mjh-abc-tas" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" tvg-chno="2" group-title="Hobart" , ABC TV
+https://c.mjh.nz/abc-tas.m3u8
+
+#EXTINF:-1 channel-id="mjh-bordersecurityaustralia-FAST" tvg-id="mjh-bordersecurityaustralia-FAST" tvg-logo="https://i.mjh.nz/.images/bordersecurityaustralia-FAST.png" group-title="Au" , Border Security Australia
+https://i.mjh.nz/bordersecurityaustralia-FAST.m3u8
+
+#EXTINF:-1 channel-id="mjh-racing-FAST" tvg-id="mjh-racing-FAST" tvg-logo="https://i.mjh.nz/.images/racing-FAST.png" tvg-chno="78" group-title="Au" , Racing.com
+https://i.mjh.nz/racing-FAST.m3u8
+
+#EXTINF:-1 channel-id="mjh-ausbiz-FAST" tvg-id="mjh-ausbiz-FAST" tvg-logo="https://i.mjh.nz/.images/ausbiz-FAST.png" group-title="Au" , ausbiz
+https://i.mjh.nz/ausbiz-FAST.m3u8
+
+#EXTINF:-1 channel-id="mjh-iwonderdocumentaries-FAST" tvg-id="mjh-iwonderdocumentaries-FAST" tvg-logo="https://i.mjh.nz/.images/iwonderdocumentaries-FAST.png" group-title="Au" , iWonder Documentaries
+https://i.mjh.nz/iwonderdocumentaries-FAST.m3u8
+
+#EXTINF:-1 channel-id="mjh-outdoor-FAST" tvg-id="mjh-outdoor-FAST" tvg-logo="https://i.mjh.nz/.images/outdoor-FAST.png" group-title="Au" , Outdoor Channel
+https://i.mjh.nz/outdoor-FAST.m3u8
+
+#EXTINF:-1 channel-id="mjh-allsaints-FAST" tvg-id="mjh-allsaints-FAST" tvg-logo="https://i.mjh.nz/.images/allsaints-FAST.png" group-title="Au" , All Saints
+https://i.mjh.nz/allsaints-FAST.m3u8
+
+#EXTINF:-1 channel-id="mjh-supercarsreplays-FAST" tvg-id="mjh-supercarsreplays-FAST" tvg-logo="https://i.mjh.nz/.images/supercarsreplays-FAST.png" group-title="Au" , Supercars Replays
+https://i.mjh.nz/supercarsreplays-FAST.m3u8
+
+#EXTINF:-1 channel-id="mjh-travelaus-FAST" tvg-id="mjh-travelaus-FAST" tvg-logo="https://i.mjh.nz/.images/travelaus-FAST.png" group-title="Au" , Travel Australia
+https://i.mjh.nz/travelaus-FAST.m3u8
+
+#EXTINF:-1 channel-id="mjh-bigbrother-FAST" tvg-id="mjh-bigbrother-FAST" tvg-logo="https://i.mjh.nz/.images/bigbrother-FAST.png" group-title="Au" , Big Brother
+https://i.mjh.nz/bigbrother-FAST.m3u8
+
+#EXTINF:-1 channel-id="mjh-fueltv-FAST" tvg-id="mjh-fueltv-FAST" tvg-logo="https://i.mjh.nz/.images/fueltv-FAST.png" group-title="Au" , FuelTV
+https://i.mjh.nz/fueltv-FAST.m3u8
+
+#EXTINF:-1 channel-id="mjh-gusto-FAST" tvg-id="mjh-gusto-FAST" tvg-logo="https://i.mjh.nz/.images/gusto-FAST.png" group-title="Au" , Gusto
+https://i.mjh.nz/gusto-FAST.m3u8
+
+#EXTINF:-1 channel-id="mjh-betterhomesandgardens-FAST" tvg-id="mjh-betterhomesandgardens-FAST" tvg-logo="https://i.mjh.nz/.images/betterhomesandgardens-FAST.png" group-title="Au" , Better Homes And Gardens
+https://i.mjh.nz/betterhomesandgardens-FAST.m3u8
+
+#EXTINF:-1 channel-id="mjh-hockeyreplays-FAST" tvg-id="mjh-hockeyreplays-FAST" tvg-logo="https://i.mjh.nz/.images/hockeyreplays-FAST.png" group-title="Au" , Hockey Replays
+https://i.mjh.nz/hockeyreplays-FAST.m3u8
+
+#EXTINF:-1 channel-id="mjh-cas21-FAST" tvg-id="mjh-cas21-FAST" tvg-logo="https://i.mjh.nz/.images/cas21-FAST.png" group-title="Au" , Crazy In Love
+https://i.mjh.nz/cas21-FAST.m3u8
+
+#EXTINF:-1 channel-id="mjh-cas24-FAST" tvg-id="mjh-cas24-FAST" tvg-logo="https://i.mjh.nz/.images/cas24-FAST.png" group-title="Au" , Bondi Vet
+https://i.mjh.nz/cas24-FAST.m3u8
+
+#EXTINF:-1 channel-id="mjh-cas25-FAST" tvg-id="mjh-cas25-FAST" tvg-logo="https://i.mjh.nz/.images/cas25-FAST.png" group-title="Au" , Australia's Got Talent
+https://i.mjh.nz/cas25-FAST.m3u8
+
+#EXTINF:-1 channel-id="mjh-cas26-FAST" tvg-id="mjh-cas26-FAST" tvg-logo="https://i.mjh.nz/.images/cas26-FAST.png" group-title="Au" , Home and Away Classics
+https://i.mjh.nz/cas26-FAST.m3u8
+
+#EXTINF:-1 channel-id="mjh-7now-FAST" tvg-id="mjh-7now-FAST" tvg-logo="https://i.mjh.nz/.images/7now-FAST.png" group-title="Au" , 7now
+CAS27-EXT?appId=7plus&deviceType=androidtv&platformType=tv&ppId=44c616d5f57262ed59884ae4707d3d4542646b84d1187b4e13e68fabf698745c&videoType=live&accountId=5650355166001&advertId=null&uaId=null&optinDeviceType=adid&optinAdTracking=0&pc=3350&deviceId=fm-k_zfMS1it5axvWRqkRt&mstatus=true&omsdk=JnNka19hcGlzPTc%3D&ozid=b09f7dc3-3999-47c7-a09f-8dce404c0455&vid=6309089770112&yo.hb=5000&yo.ac=true&pp=csai-tv&custParams=rc%25253D5309%252526y%25253D2%252526c%25253Db%252526dpc%25253D1045%252526seriesid%25253DBLUP&y=2&c=b&dpc=1045&rc=5309&yo.lb=400
+
+#EXTINF:-1 channel-id="mjh-livgolfreplays-FAST" tvg-id="mjh-livgolfreplays-FAST" tvg-logo="https://i.mjh.nz/.images/livgolfreplays-FAST.png" group-title="Au" , LIV Golf Replays
+https://i.mjh.nz/livgolfreplays-FAST.m3u8
+
+#EXTINF:-1 channel-id="mjh-cas29-FAST" tvg-id="mjh-cas29-FAST" tvg-logo="https://i.mjh.nz/.images/cas29-FAST.png" group-title="Au" , Cooking & Culture
+https://i.mjh.nz/cas29-FAST.m3u8
+
+#EXTINF:-1 channel-id="mjh-cas31-FAST" tvg-id="mjh-cas31-FAST" tvg-logo="https://i.mjh.nz/.images/cas31-FAST.png" group-title="Au" , Biopic
+https://i.mjh.nz/cas31-FAST.m3u8
+
+#EXTINF:-1 channel-id="mjh-cas32-FAST" tvg-id="mjh-cas32-FAST" tvg-logo="https://i.mjh.nz/.images/cas32-FAST.png" group-title="Au" , 7NEWS Spotlight
+https://i.mjh.nz/cas32-FAST.m3u8
+
+#EXTINF:-1 channel-id="mjh-mytimemovienetwork-FAST" tvg-id="mjh-mytimemovienetwork-FAST" tvg-logo="https://i.mjh.nz/.images/mytimemovienetwork-FAST.png" group-title="Au" , MyTime Movie Network
+https://i.mjh.nz/mytimemovienetwork-FAST.m3u8
+
+#EXTINF:-1 channel-id="mjh-ria-FAST" tvg-id="mjh-ria-FAST" tvg-logo="https://i.mjh.nz/.images/ria-FAST.png" group-title="Au" , Rialto
+https://i.mjh.nz/ria-FAST.m3u8
+
+#EXTINF:-1 channel-id="mjh-pul-FAST" tvg-id="mjh-pul-FAST" tvg-logo="https://i.mjh.nz/.images/pul-FAST.png" group-title="Au" , Pulse TV
+https://i.mjh.nz/pul-FAST.m3u8
+
+#EXTINF:-1 channel-id="mjh-ahm-FAST" tvg-id="mjh-ahm-FAST" tvg-logo="https://i.mjh.nz/.images/ahm-FAST.png" group-title="Au" , Action Hollywood Movies
+https://i.mjh.nz/ahm-FAST.m3u8
+
+#EXTINF:-1 channel-id="mjh-wtn-FAST" tvg-id="mjh-wtn-FAST" tvg-logo="https://i.mjh.nz/.images/wtn-FAST.png" group-title="Au" , Wicked Tuna
+https://i.mjh.nz/wtn-FAST.m3u8
+
+#EXTINF:-1 channel-id="mjh-winnersnlosers-FAST" tvg-id="mjh-winnersnlosers-FAST" tvg-logo="https://i.mjh.nz/.images/winnersnlosers-FAST.png" group-title="Au" , Winners and Losers
+https://i.mjh.nz/winnersnlosers-FAST.m3u8
+
+#EXTINF:-1 channel-id="mjh-propertydreams-FAST" tvg-id="mjh-propertydreams-FAST" tvg-logo="https://i.mjh.nz/.images/propertydreams-FAST.png" group-title="Au" , Property Dreams
+https://i.mjh.nz/propertydreams-FAST.m3u8
+
+#EXTINF:-1 channel-id="mjh-7afl-FAST" tvg-id="mjh-7afl-FAST" tvg-logo="https://i.mjh.nz/.images/7afl-FAST.png" group-title="Au" , 7AFL
+https://i.mjh.nz/7afl-FAST.m3u8
+
+#EXTINF:-1 channel-id="mjh-onefightreplays-FAST" tvg-id="mjh-onefightreplays-FAST" tvg-logo="https://i.mjh.nz/.images/onefightreplays-FAST.png" group-title="Au" , ONE Fight Replays
+https://i.mjh.nz/onefightreplays-FAST.m3u8
+
+#EXTINF:-1 channel-id="mjh-bluelight-FAST" tvg-id="mjh-bluelight-FAST" tvg-logo="https://i.mjh.nz/.images/bluelight-FAST.png" group-title="Au" , Blue Light
+https://i.mjh.nz/bluelight-FAST.m3u8
+
+#EXTINF:-1 channel-id="mjh-moviesphere-FAST" tvg-id="mjh-moviesphere-FAST" tvg-logo="https://i.mjh.nz/.images/moviesphere-FAST.png" group-title="Au" , MovieSphere
+https://i.mjh.nz/moviesphere-FAST.m3u8
+
+#EXTINF:-1 channel-id="mjh-naturetime-FAST" tvg-id="mjh-naturetime-FAST" tvg-logo="https://i.mjh.nz/.images/naturetime-FAST.png" group-title="Au" , NatureTime
+https://i.mjh.nz/naturetime-FAST.m3u8
+
+#EXTINF:-1 channel-id="mjh-medicalnrescue-FAST" tvg-id="mjh-medicalnrescue-FAST" tvg-logo="https://i.mjh.nz/.images/medicalnrescue-FAST.png" group-title="Au" , Medical And Rescue
+https://i.mjh.nz/medicalnrescue-FAST.m3u8
+
+#EXTINF:-1 channel-id="mjh-blueheelers-FAST" tvg-id="mjh-blueheelers-FAST" tvg-logo="https://i.mjh.nz/.images/blueheelers-FAST.png" group-title="Au" , Blue Heelers
+https://i.mjh.nz/blueheelers-FAST.m3u8
+
+#EXTINF:-1 channel-id="mjh-acountrypractice-FAST" tvg-id="mjh-acountrypractice-FAST" tvg-logo="https://i.mjh.nz/.images/acountrypractice-FAST.png" group-title="Au" , A Country Practice
+https://i.mjh.nz/acountrypractice-FAST.m3u8
+
+#EXTINF:-1 channel-id="mjh-aliennation-FAST" tvg-id="mjh-aliennation-FAST" tvg-logo="https://i.mjh.nz/.images/aliennation-FAST.png" group-title="Au" , Alien Nation
+https://i.mjh.nz/aliennation-FAST.m3u8
+
+#EXTINF:-1 channel-id="mjh-btv-FAST" tvg-id="mjh-btv-FAST" tvg-logo="https://i.mjh.nz/.images/btv-FAST.png" group-title="Au" , Bloomberg Tv
+https://i.mjh.nz/btv-FAST.m3u8
+
+#EXTINF:-1 channel-id="mjh-amc-FAST" tvg-id="mjh-amc-FAST" tvg-logo="https://i.mjh.nz/.images/amc-FAST.png" group-title="Au" , Anger Management
+https://i.mjh.nz/amc-FAST.m3u8
+
+#EXTINF:-1 channel-id="mjh-htv-FAST" tvg-id="mjh-htv-FAST" tvg-logo="https://i.mjh.nz/.images/htv-FAST.png" group-title="Au" , HauntTV
+https://i.mjh.nz/htv-FAST.m3u8
+
+#EXTINF:-1 channel-id="mjh-rmc-FAST" tvg-id="mjh-rmc-FAST" tvg-logo="https://i.mjh.nz/.images/rmc-FAST.png" group-title="Au" , River Monsters
+https://i.mjh.nz/rmc-FAST.m3u8
+
+#EXTINF:-1 channel-id="mjh-7bravo-FAST" tvg-id="mjh-7bravo-FAST" tvg-logo="https://i.mjh.nz/.images/7bravo-FAST.png" tvg-chno="75" group-title="Au" , 7Bravo
+https://i.mjh.nz/7bravo-FAST.m3u8
+
+#EXTINF:-1 channel-id="mjh-heki-FAST" tvg-id="mjh-heki-FAST" tvg-logo="https://i.mjh.nz/.images/heki-FAST.png" group-title="Au" , Hells Kitchen
+https://i.mjh.nz/heki-FAST.m3u8
+
+#EXTINF:-1 channel-id="mjh-wspy-FAST" tvg-id="mjh-wspy-FAST" tvg-logo="https://i.mjh.nz/.images/wspy-FAST.png" group-title="Au" , Weather Spy
+https://i.mjh.nz/wspy-FAST.m3u8
+
+#EXTINF:-1 channel-id="mjh-far-FAST" tvg-id="mjh-far-FAST" tvg-logo="https://i.mjh.nz/.images/far-FAST.png" group-title="Au" , Fail Army
+https://i.mjh.nz/far-FAST.m3u8
+
+#EXTINF:-1 channel-id="mjh-paa-FAST" tvg-id="mjh-paa-FAST" tvg-logo="https://i.mjh.nz/.images/paa-FAST.png" group-title="Au" , People Are Awesome
+https://i.mjh.nz/paa-FAST.m3u8
+
+#EXTINF:-1 channel-id="mjh-petc-FAST" tvg-id="mjh-petc-FAST" tvg-logo="https://i.mjh.nz/.images/petc-FAST.png" group-title="Au" , Pet Collective
+https://i.mjh.nz/petc-FAST.m3u8
+
+#EXTINF:-1 channel-id="mjh-shemaroo-FAST" tvg-id="mjh-shemaroo-FAST" tvg-logo="https://i.mjh.nz/.images/shemaroo-FAST.png" group-title="Au" , Shemaroo
+https://i.mjh.nz/shemaroo-FAST.m3u8
+
+#EXTINF:-1 channel-id="mjh-tvsn-shopping-au" tvg-id="mjh-tvsn-shopping-au" tvg-logo="https://i.mjh.nz/.images/tvsn-shopping.png" tvg-chno="16" group-title="Au" , TVSN Shopping
+https://i.mjh.nz/tvsn-shopping-au.m3u8
+
+#EXTINF:-1 channel-id="mjh-abc-kids" tvg-id="mjh-abc-kids" tvg-logo="https://i.mjh.nz/.images/abc-kids.png" tvg-chno="22" group-title="Au" , ABC Kids
+https://c.mjh.nz/abc-kids.m3u8
+
+#EXTINF:-1 channel-id="mjh-abc-tv-plus" tvg-id="mjh-abc-tv-plus" tvg-logo="https://i.mjh.nz/.images/abc-tv-plus.png" tvg-chno="22" group-title="Au" , ABC TV Plus
+https://c.mjh.nz/abc-tv-plus.m3u8
+
+#EXTINF:-1 channel-id="mjh-abc-me" tvg-id="mjh-abc-me" tvg-logo="https://i.mjh.nz/.images/abc-me.png" tvg-chno="23" group-title="Au" , ABC ME
+https://c.mjh.nz/abc-me.m3u8
+
+#EXTINF:-1 channel-id="mjh-abc-news" tvg-id="mjh-abc-news" tvg-logo="https://i.mjh.nz/.images/abc-news.png" tvg-chno="24" group-title="Au" , ABC NEWS
+https://c.mjh.nz/abc-news.m3u8
+
+#EXTINF:-1 channel-id="mjh-abc-90-seconds-news" tvg-id="mjh-abc-90-seconds-news" tvg-logo="https://live-production.wcms.abc-cdn.net.au/144a0dacebeb9f616c1fcd637e3b2cf2?impolicy=wcms_crop_resize&cropH=630&cropW=1119&xPos=10&yPos=0&width=862&height=485" group-title="Au" , ABC News in 90 Seconds
+https://c.mjh.nz/news_in_90_seconds
+
+#EXTINF:-1 channel-id="mjh-abc-90-seconds-business" tvg-id="mjh-abc-90-seconds-business" tvg-logo="https://live-production.wcms.abc-cdn.net.au/ae76d32898cca0be596b7f23c1bd41f2?impolicy=wcms_crop_resize&cropH=630&cropW=1119&xPos=10&yPos=0&width=862&height=485" group-title="Au" , ABC Business in 90 Seconds
+https://c.mjh.nz/business_in_90_seconds
+
+#EXTINF:-1 channel-id="mjh-abc-90-seconds-sport" tvg-id="mjh-abc-90-seconds-sport" tvg-logo="https://live-production.wcms.abc-cdn.net.au/646cb8a032c847ec21c3de0de881e4cb?impolicy=wcms_crop_resize&cropH=630&cropW=1119&xPos=10&yPos=0&width=862&height=485" group-title="Au" , ABC Sport in 90 Seconds
+https://c.mjh.nz/sport_in_90_seconds
+
+#EXTINF:-1 channel-id="mjh-abc-90-seconds-weather" tvg-id="mjh-abc-90-seconds-weather" tvg-logo="https://live-production.wcms.abc-cdn.net.au/d376e49724862f104d044ff6467f85d8?impolicy=wcms_crop_resize&cropH=630&cropW=1119&xPos=10&yPos=0&width=862&height=485" group-title="Au" , ABC Weather in 90 Seconds
+https://c.mjh.nz/weather_in_90_seconds
+
+#EXTINF:-1 channel-id="mjh-sbs" tvg-id="mjh-sbs" tvg-logo="https://i.mjh.nz/.images/sbs.png" tvg-chno="3" group-title="Au" , SBS
+https://i.mjh.nz/sbs.m3u8
+
+#EXTINF:-1 channel-id="mjh-sbs-viceland" tvg-id="mjh-sbs-viceland" tvg-logo="https://i.mjh.nz/.images/sbs-viceland.png" tvg-chno="31" group-title="Au" , SBS VICELAND
+https://i.mjh.nz/sbs-viceland.m3u8
+
+#EXTINF:-1 channel-id="mjh-sbs-food" tvg-id="mjh-sbs-food" tvg-logo="https://i.mjh.nz/.images/sbs-food.png" tvg-chno="33" group-title="Au" , SBS Food
+https://i.mjh.nz/sbs-food.m3u8
+
+#EXTINF:-1 channel-id="mjh-sbs-world-movies" tvg-id="mjh-sbs-world-movies" tvg-logo="https://i.mjh.nz/.images/sbs-world-movies.png" tvg-chno="32" group-title="Au" , SBS World Movies
+https://i.mjh.nz/sbs-world-movies.m3u8
+
+#EXTINF:-1 channel-id="mjh-sbs-nitv" tvg-id="mjh-sbs-nitv" tvg-logo="https://i.mjh.nz/.images/sbs-nitv.png" tvg-chno="34" group-title="Au" , NITV
+https://i.mjh.nz/sbs-nitv.m3u8
+
+#EXTINF:-1 channel-id="mjh-sbs-world-watch" tvg-id="mjh-sbs-world-watch" tvg-logo="https://i.mjh.nz/.images/sbs-world-watch.png" tvg-chno="35" group-title="Au" , SBS World Watch
+https://i.mjh.nz/sbs-world-watch.m3u8
+
+#EXTINF:-1 channel-id="mjh-sky-racing-1" tvg-id="mjh-sky-racing-1" tvg-logo="https://i.mjh.nz/.images/sky-racing-1.png" group-title="Au" , Sky Racing #1
+https://i.mjh.nz/sky-racing-1.m3u8
+
+#EXTINF:-1 channel-id="mjh-sky-racing-2" tvg-id="mjh-sky-racing-2" tvg-logo="https://i.mjh.nz/.images/sky-racing-2.png" group-title="Au" , Sky Racing #2
+https://i.mjh.nz/sky-racing-2.m3u8
+
+#EXTINF:-1 channel-id="mjh-sky-racing-thoroughbred" tvg-id="mjh-sky-racing-thoroughbred" tvg-logo="https://i.mjh.nz/.images/sky-racing-thoroughbred.png" group-title="Au" , Sky Racing - Thoroughbred Central
+https://i.mjh.nz/sky-racing-thoroughbred.m3u8
+
+#EXTINF:-1 channel-id="mjh-good-dot" tvg-id="mjh-good-dot" tvg-logo="https://i.mjh.nz/.images/good-dot.png" group-title="Au" , GOOD.
+https://i.mjh.nz/good-dot.m3u8
+
+#EXTINF:-1 channel-id="mjh-gecko" tvg-id="mjh-gecko" tvg-logo="https://i.mjh.nz/.images/gecko.png" tvg-chno="17" group-title="Au" , gecko
+https://i.mjh.nz/gecko.m3u8
+
+#EXTINF:-1 channel-id="mjh-redbull-tv" tvg-id="mjh-redbull-tv" tvg-logo="https://i.mjh.nz/.images/redbull-tv.png" group-title="World" , Redbull TV
+https://i.mjh.nz/redbull-tv.m3u8
+
+#EXTINF:-1 channel-id="mjh-channel-news-asia" tvg-id="mjh-channel-news-asia" tvg-logo="https://i.mjh.nz/.images/channel-news-asia.png" group-title="World" , Channel News Asia (CNA)
+https://i.mjh.nz/channel-news-asia.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-ih-8668" tvg-id="mjh-radio-ih-8668" tvg-logo="https://i.iheart.com/v3/re/new_assets/5ef668ed9db6088544062f5c" group-title="Nz" radio="true" , Gold FM
+https://i.mjh.nz/radio-ih-8668
+
+#EXTINF:-1 channel-id="mjh-radio-ih-8511" tvg-id="mjh-radio-ih-8511" tvg-logo="https://i.iheart.com/v3/re/new_assets/5e585dc8f299753a5cf4bfbf" group-title="Nz" radio="true" , Big Rig Country Hits
+https://i.mjh.nz/radio-ih-8511
+
+#EXTINF:-1 channel-id="mjh-radio-ih-6491" tvg-id="mjh-radio-ih-6491" tvg-logo="https://i.iheart.com/v3/re/assets/images/6a2775b9-3b60-43f4-8816-3ac512700320.png" group-title="Nz" radio="true" , NZ Top 40
+https://i.mjh.nz/radio-ih-6491
+
+#EXTINF:-1 channel-id="mjh-radio-ih-9049" tvg-id="mjh-radio-ih-9049" tvg-logo="https://i.iheart.com/v3/re/new_assets/60fded128d281279cae3068e" group-title="Nz" radio="true" , 531pi
+https://i.mjh.nz/radio-ih-9049.aac
+
+#EXTINF:-1 channel-id="mjh-radio-ih-8514" tvg-id="mjh-radio-ih-8514" tvg-logo="https://i.iheart.com/v3/re/new_assets/5e586179f299753a5cf4bfc7" group-title="Nz" radio="true" , The Casual
+https://i.mjh.nz/radio-ih-8514
+
+#EXTINF:-1 channel-id="mjh-radio-ih-8513" tvg-id="mjh-radio-ih-8513" tvg-logo="https://i.iheart.com/v3/re/new_assets/5e586087f299753a5cf4bfc5" group-title="Nz" radio="true" , Melo
+https://i.mjh.nz/radio-ih-8513
+
+#EXTINF:-1 channel-id="mjh-radio-ih-7782" tvg-id="mjh-radio-ih-7782" tvg-logo="https://i.iheart.com/v3/re/new_assets/5a271649173d12e032d6f47a" group-title="Nz" radio="true" , Real Radio
+https://i.mjh.nz/radio-ih-7782
+
+#EXTINF:-1 channel-id="mjh-radio-ih-7756" tvg-id="mjh-radio-ih-7756" tvg-logo="https://i.iheart.com/v3/re/new_assets/62c35d9628556a3ad027cb06" group-title="Nz" radio="true" , Coast Bay Of Plenty
+https://i.mjh.nz/radio-ih-7756
+
+#EXTINF:-1 channel-id="mjh-radio-ih-7114" tvg-id="mjh-radio-ih-7114" tvg-logo="https://i.iheart.com/v3/re/new_assets/be97b32c-064e-4f90-8cad-bdbad338efc3" group-title="Nz" radio="true" , The Wireless 90.4FM
+https://i.mjh.nz/radio-ih-7114
+
+#EXTINF:-1 channel-id="mjh-radio-ih-9496" tvg-id="mjh-radio-ih-9496" tvg-logo="https://i.iheart.com/v3/re/new_assets/62a808fd9ec66f953cc81248" group-title="Nz" radio="true" , Coromandel’s CFM
+https://i.mjh.nz/radio-ih-9496
+
+#EXTINF:-1 channel-id="mjh-radio-ih-9561" tvg-id="mjh-radio-ih-9561" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64ab8129e1e5b9624d5ccbf1" group-title="Nz" radio="true" , Radio Hauraki Christchurch
+https://i.mjh.nz/radio-ih-9561
+
+#EXTINF:-1 channel-id="mjh-radio-ih-9562" tvg-id="mjh-radio-ih-9562" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64ab7f27e1e5b9624d5ccbe1" group-title="Nz" radio="true" , Gold Wellington
+https://i.mjh.nz/radio-ih-9562
+
+#EXTINF:-1 channel-id="mjh-radio-ih-9563" tvg-id="mjh-radio-ih-9563" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64ab7f27e1e5b9624d5ccbe0" group-title="Nz" radio="true" , Gold Christchurch
+https://i.mjh.nz/radio-ih-9563
+
+#EXTINF:-1 channel-id="mjh-radio-ih-9564" tvg-id="mjh-radio-ih-9564" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64ab7fd2e1e5b9624d5ccbe9" group-title="Nz" radio="true" , Gold Sport Wellington
+https://i.mjh.nz/radio-ih-9564
+
+#EXTINF:-1 channel-id="mjh-radio-ih-9565" tvg-id="mjh-radio-ih-9565" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64ab7fd2e1e5b9624d5ccbe7" group-title="Nz" radio="true" , Gold Sport Christchurch
+https://i.mjh.nz/radio-ih-9565
+
+#EXTINF:-1 channel-id="mjh-radio-ih-9615" tvg-id="mjh-radio-ih-9615" tvg-logo="https://i.iheart.com/v3/re/new_assets/633627e0aa2899e216aaf226" group-title="Nz" radio="true" , The Crush
+https://i.mjh.nz/radio-ih-9615
+
+#EXTINF:-1 channel-id="mjh-radio-ih-9472" tvg-id="mjh-radio-ih-9472" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64ab7dd0e1e5b9624d5ccbd7" group-title="Nz" radio="true" , Flava Auckland
+https://i.mjh.nz/radio-ih-9472
+
+#EXTINF:-1 channel-id="mjh-radio-ih-9475" tvg-id="mjh-radio-ih-9475" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64ab7fd2e1e5b9624d5ccbe6" group-title="Nz" radio="true" , Gold Sport Auckland
+https://i.mjh.nz/radio-ih-9475
+
+#EXTINF:-1 channel-id="mjh-radio-ih-9559" tvg-id="mjh-radio-ih-9559" tvg-logo="https://i.iheart.com/v3/re/new_assets/62c35d9628556a3ad027cb04" group-title="Nz" radio="true" , Coast Wellington
+https://i.mjh.nz/radio-ih-9559
+
+#EXTINF:-1 channel-id="mjh-radio-ih-9560" tvg-id="mjh-radio-ih-9560" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64ab8129e1e5b9624d5ccbf3" group-title="Nz" radio="true" , Radio Hauraki Wellington
+https://i.mjh.nz/radio-ih-9560
+
+#EXTINF:-1 channel-id="mjh-radio-ih-9199" tvg-id="mjh-radio-ih-9199" tvg-logo="https://i.iheart.com/v3/re/new_assets/617f0d6da6ee3d9e17836402" group-title="Nz" radio="true" , Chemist Warehouse Remix
+https://i.mjh.nz/radio-ih-9199
+
+#EXTINF:-1 channel-id="mjh-radio-ih-9204" tvg-id="mjh-radio-ih-9204" tvg-logo="https://i.iheart.com/v3/re/new_assets/6184df4e2294e4675857a057" group-title="Nz" radio="true" , TikTok Trending on iHeartRadio
+https://i.mjh.nz/radio-ih-9204
+
+#EXTINF:-1 channel-id="mjh-radio-ih-9000" tvg-id="mjh-radio-ih-9000" tvg-logo="https://i.iheart.com/v3/re/new_assets/60d24024783e22c11f249aa1" group-title="Nz" radio="true" , Hutt Radio
+https://i.mjh.nz/radio-ih-9000
+
+#EXTINF:-1 channel-id="mjh-radio-ih-9050" tvg-id="mjh-radio-ih-9050" tvg-logo="https://i.iheart.com/v3/re/new_assets/60fdf21e8d281279cae30692" group-title="Nz" radio="true" , Niu FM
+https://i.mjh.nz/radio-ih-9050.aac
+
+#EXTINF:-1 channel-id="mjh-radio-ih-8860" tvg-id="mjh-radio-ih-8860" tvg-logo="https://i.iheart.com/v3/re/new_assets/60500668ea9688b5d6f3b3d7" group-title="Nz" radio="true" , Oamaru FM 91.2
+https://i.mjh.nz/radio-ih-8860
+
+#EXTINF:-1 channel-id="mjh-radio-ih-8870" tvg-id="mjh-radio-ih-8870" tvg-logo="https://i.iheart.com/v3/re/new_assets/62789a51d76e699e39e25c6a" group-title="Nz" radio="true" , Coast 80s
+https://i.mjh.nz/radio-ih-8870
+
+#EXTINF:-1 channel-id="mjh-radio-ih-8907" tvg-id="mjh-radio-ih-8907" tvg-logo="https://i.iheart.com/v3/re/new_assets/609c7b13d9c5e8f6be8ead5f" group-title="Nz" radio="true" , East FM
+https://i.mjh.nz/radio-ih-8907
+
+#EXTINF:-1 channel-id="mjh-radio-ih-8811" tvg-id="mjh-radio-ih-8811" tvg-logo="https://i.iheart.com/v3/re/new_assets/5fc59e1d165fdfccfd2b3031" group-title="Nz" radio="true" , The Generator FM
+https://i.mjh.nz/radio-ih-8811
+
+#EXTINF:-1 channel-id="mjh-radio-ih-8823" tvg-id="mjh-radio-ih-8823" tvg-logo="https://i.iheart.com/v3/re/new_assets/61c6808e9e3a2e305ba25825" group-title="Nz" radio="true" , Coast Auckland
+https://i.mjh.nz/radio-ih-8823
+
+#EXTINF:-1 channel-id="mjh-radio-ih-8824" tvg-id="mjh-radio-ih-8824" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64ab7f27e1e5b9624d5ccbdf" group-title="Nz" radio="true" , Gold 105.4 Auckland
+https://i.mjh.nz/radio-ih-8824
+
+#EXTINF:-1 channel-id="mjh-radio-ih-8832" tvg-id="mjh-radio-ih-8832" tvg-logo="https://i.iheart.com/v3/re/new_assets/63bdd6323f1cbc1c8d6759de" group-title="Nz" radio="true" , The Hits
+https://i.mjh.nz/radio-ih-8832
+
+#EXTINF:-1 channel-id="mjh-radio-ih-8839" tvg-id="mjh-radio-ih-8839" tvg-logo="https://i.iheart.com/v3/re/new_assets/60242439914c3860de7da794" group-title="Nz" radio="true" , Awa FM
+https://i.mjh.nz/radio-ih-8839
+
+#EXTINF:-1 channel-id="mjh-radio-ih-8847" tvg-id="mjh-radio-ih-8847" tvg-logo="https://i.iheart.com/v3/re/new_assets/603c4c26fca759a2230c9ab5" group-title="Nz" radio="true" , The Cheese
+https://i.mjh.nz/radio-ih-8847
+
+#EXTINF:-1 channel-id="mjh-radio-ih-8669" tvg-id="mjh-radio-ih-8669" tvg-logo="https://i.iheart.com/v3/re/new_assets/62b814eee3e1466415bea863" group-title="Nz" radio="true" , Gold Sport
+https://i.mjh.nz/radio-ih-8669
+
+#EXTINF:-1 channel-id="mjh-radio-ih-8702" tvg-id="mjh-radio-ih-8702" tvg-logo="https://i.iheart.com/v3/re/new_assets/62c35d9628556a3ad027cb05" group-title="Nz" radio="true" , Coast Canterbury
+https://i.mjh.nz/radio-ih-8702
+
+#EXTINF:-1 channel-id="mjh-radio-ih-8512" tvg-id="mjh-radio-ih-8512" tvg-logo="https://i.iheart.com/v3/re/new_assets/5e586047f299753a5cf4bfc3" group-title="Nz" radio="true" , Maestro
+https://i.mjh.nz/radio-ih-8512
+
+#EXTINF:-1 channel-id="mjh-radio-ih-8536" tvg-id="mjh-radio-ih-8536" tvg-logo="https://i.iheart.com/v3/re/new_assets/5e8132bcabe821c79c5c2ac7" group-title="Nz" radio="true" , 100.3FM
+https://i.mjh.nz/radio-ih-8536
+
+#EXTINF:-1 channel-id="mjh-radio-ih-8387" tvg-id="mjh-radio-ih-8387" tvg-logo="https://i.iheart.com/v3/re/new_assets/5d5f5598192e3612a36a7911" group-title="Nz" radio="true" , Atiawa Toa FM
+https://i.mjh.nz/radio-ih-8387
+
+#EXTINF:-1 channel-id="mjh-radio-ih-8404" tvg-id="mjh-radio-ih-8404" tvg-logo="https://i.iheart.com/v3/re/new_assets/5d67092d6c334fb776275ca6" group-title="Nz" radio="true" , Radio Apna
+https://i.mjh.nz/radio-ih-8404
+
+#EXTINF:-1 channel-id="mjh-radio-ih-8272" tvg-id="mjh-radio-ih-8272" tvg-logo="https://i.iheart.com/v3/re/new_assets/5fdba4c4c50617d408b601a0" group-title="Nz" radio="true" , Newstalk ZB Auckland
+https://i.mjh.nz/radio-ih-8272
+
+#EXTINF:-1 channel-id="mjh-radio-ih-8307" tvg-id="mjh-radio-ih-8307" tvg-logo="https://i.iheart.com/v3/re/new_assets/5fc6f80038bde9364e3a6d44" group-title="Nz" radio="true" , Crescendo
+https://i.mjh.nz/radio-ih-8307
+
+#EXTINF:-1 channel-id="mjh-radio-ih-8385" tvg-id="mjh-radio-ih-8385" tvg-logo="https://i.iheart.com/v3/re/new_assets/5d5c70653269f5571db85e89" group-title="Nz" radio="true" , Shake Me!
+https://i.mjh.nz/radio-ih-8385
+
+#EXTINF:-1 channel-id="mjh-radio-ih-8177" tvg-id="mjh-radio-ih-8177" tvg-logo="https://i.iheart.com/v3/re/new_assets/5fa86e838e29d00bfa33c135" group-title="Nz" radio="true" , Tainui Live
+https://i.mjh.nz/radio-ih-8177
+
+#EXTINF:-1 channel-id="mjh-radio-ih-8178" tvg-id="mjh-radio-ih-8178" tvg-logo="https://i.iheart.com/v3/re/new_assets/600a316b49a8016b4a79c20a" group-title="Nz" radio="true" , SUN FM
+https://i.mjh.nz/radio-ih-8178
+
+#EXTINF:-1 channel-id="mjh-radio-ih-8179" tvg-id="mjh-radio-ih-8179" tvg-logo="https://i.iheart.com/v3/re/new_assets/600a318d49a8016b4a79c20c" group-title="Nz" radio="true" , Tumeke FM
+https://i.mjh.nz/radio-ih-8179
+
+#EXTINF:-1 channel-id="mjh-radio-ih-8193" tvg-id="mjh-radio-ih-8193" tvg-logo="https://i.iheart.com/v3/re/new_assets/5c4e4d0a00b1241800570645" group-title="Nz" radio="true" , Radio Waatea
+https://i.mjh.nz/radio-ih-8193
+
+#EXTINF:-1 channel-id="mjh-radio-ih-8199" tvg-id="mjh-radio-ih-8199" tvg-logo="https://i.iheart.com/v3/re/new_assets/5c606b954bc163e743122daa" group-title="Nz" radio="true" , Moana Radio
+https://i.mjh.nz/radio-ih-8199
+
+#EXTINF:-1 channel-id="mjh-radio-ih-8200" tvg-id="mjh-radio-ih-8200" tvg-logo="https://i.iheart.com/v3/re/new_assets/5c609614fa27df06b7080bb5" group-title="Nz" radio="true" , Radio Ngati Porou
+https://i.mjh.nz/radio-ih-8200
+
+#EXTINF:-1 channel-id="mjh-radio-ih-8202" tvg-id="mjh-radio-ih-8202" tvg-logo="https://i.iheart.com/v3/re/new_assets/5c6233e63317f4881799c698" group-title="Nz" radio="true" , Te Upoko O Te Ika
+https://i.mjh.nz/radio-ih-8202
+
+#EXTINF:-1 channel-id="mjh-radio-ih-8203" tvg-id="mjh-radio-ih-8203" tvg-logo="https://i.iheart.com/v3/re/new_assets/5c6381698363a5cc9bb6996d" group-title="Nz" radio="true" , Te Korimako o Taranaki
+https://i.mjh.nz/radio-ih-8203
+
+#EXTINF:-1 channel-id="mjh-radio-ih-8204" tvg-id="mjh-radio-ih-8204" tvg-logo="https://i.iheart.com/v3/re/new_assets/5e3087a07c7f1c7b1a55fe3c" group-title="Nz" radio="true" , Tūranga FM
+https://i.mjh.nz/radio-ih-8204
+
+#EXTINF:-1 channel-id="mjh-radio-ih-8011" tvg-id="mjh-radio-ih-8011" tvg-logo="https://i.iheart.com/v3/re/new_assets/6196.png" group-title="Nz" radio="true" , Hokonui Ashburton
+https://i.mjh.nz/radio-ih-8011
+
+#EXTINF:-1 channel-id="mjh-radio-ih-7894" tvg-id="mjh-radio-ih-7894" tvg-logo="https://i.iheart.com/v3/re/assets.streams/646186594faa2fe6331c9268" group-title="Nz" radio="true" , Waves 96.1
+https://i.mjh.nz/radio-ih-7894
+
+#EXTINF:-1 channel-id="mjh-radio-ih-7944" tvg-id="mjh-radio-ih-7944" tvg-logo="https://i.iheart.com/v3/re/new_assets/5b57afca173d125948b85c0e" group-title="Nz" radio="true" , BAYROCK
+https://i.mjh.nz/radio-ih-7944
+
+#EXTINF:-1 channel-id="mjh-radio-ih-7945" tvg-id="mjh-radio-ih-7945" tvg-logo="https://i.iheart.com/v3/re/new_assets/5b57b0f8173d125948b85c10" group-title="Nz" radio="true" , Q97
+https://i.mjh.nz/radio-ih-7945
+
+#EXTINF:-1 channel-id="mjh-radio-ih-7820" tvg-id="mjh-radio-ih-7820" tvg-logo="https://i.iheart.com/v3/re/new_assets/1913b105-f06c-4c73-9140-4045023f51c8" group-title="Nz" radio="true" , Te Patu Manawa
+https://i.mjh.nz/radio-ih-7820
+
+#EXTINF:-1 channel-id="mjh-radio-ih-7391" tvg-id="mjh-radio-ih-7391" tvg-logo="https://i.iheart.com/v3/re/new_assets/594995390a01596ad79e7cac" group-title="Nz" radio="true" , Central FM
+https://i.mjh.nz/radio-ih-7391
+
+#EXTINF:-1 channel-id="mjh-radio-ih-7401" tvg-id="mjh-radio-ih-7401" tvg-logo="https://i.iheart.com/v3/re/new_assets/5f8902aebe18f9a3b03cf9c9" group-title="Nz" radio="true" , Lyall Bay School's Maranui FM
+https://i.mjh.nz/radio-ih-7401
+
+#EXTINF:-1 channel-id="mjh-radio-ih-7429" tvg-id="mjh-radio-ih-7429" tvg-logo="https://i.iheart.com/v3/re/new_assets/59a89b5cf48c320884a81741" group-title="Nz" radio="true" , The Station
+https://i.mjh.nz/radio-ih-7429
+
+#EXTINF:-1 channel-id="mjh-radio-ih-7265" tvg-id="mjh-radio-ih-7265" tvg-logo="https://i.iheart.com/v3/re/new_assets/582c0b2a1939554e31946884" group-title="Nz" radio="true" , The Lounge
+https://i.mjh.nz/radio-ih-7265
+
+#EXTINF:-1 channel-id="mjh-radio-ih-7300" tvg-id="mjh-radio-ih-7300" tvg-logo="https://i.iheart.com/v3/re/new_assets/58950e171939558855f73304" group-title="Nz" radio="true" , Radio Wanaka
+https://i.mjh.nz/radio-ih-7300
+
+#EXTINF:-1 channel-id="mjh-radio-ih-7317" tvg-id="mjh-radio-ih-7317" tvg-logo="https://i.iheart.com/v3/re/new_assets/58d2e89819395558b9199699" group-title="Nz" radio="true" , 1 Double X
+https://i.mjh.nz/radio-ih-7317
+
+#EXTINF:-1 channel-id="mjh-radio-ih-7156" tvg-id="mjh-radio-ih-7156" tvg-logo="https://i.iheart.com/v3/re/new_assets/a2802b03-11d5-4db9-9b37-709e8869cc91" group-title="Nz" radio="true" , Ski FM Network
+https://i.mjh.nz/radio-ih-7156
+
+#EXTINF:-1 channel-id="mjh-radio-ih-7159" tvg-id="mjh-radio-ih-7159" tvg-logo="https://i.iheart.com/v3/re/new_assets/31360291-08eb-450f-9eb0-c9df96a068e5" group-title="Nz" radio="true" , The Country
+https://i.mjh.nz/radio-ih-7159
+
+#EXTINF:-1 channel-id="mjh-radio-ih-7072" tvg-id="mjh-radio-ih-7072" tvg-logo="https://i.iheart.com/v3/re/new_assets/5b8f2daf173d12bee4d189e2" group-title="Nz" radio="true" , Chinese Voice
+https://i.mjh.nz/radio-ih-7072
+
+#EXTINF:-1 channel-id="mjh-radio-ih-7073" tvg-id="mjh-radio-ih-7073" tvg-logo="https://i.iheart.com/v3/re/new_assets/5b60debbb49a04b3d1e40ffb" group-title="Nz" radio="true" , Chinese Radio
+https://i.mjh.nz/radio-ih-7073
+
+#EXTINF:-1 channel-id="mjh-radio-ih-7074" tvg-id="mjh-radio-ih-7074" tvg-logo="https://i.iheart.com/v3/re/new_assets/5b5f9ee4e3664342fb5a1fa4" group-title="Nz" radio="true" , K Radio
+https://i.mjh.nz/radio-ih-7074
+
+#EXTINF:-1 channel-id="mjh-radio-ih-7113" tvg-id="mjh-radio-ih-7113" tvg-logo="https://i.iheart.com/v3/re/new_assets/a6fd5229-b89d-41c1-b177-557f77101343" group-title="Nz" radio="true" , Heads 106.4FM Mangawhai
+https://i.mjh.nz/radio-ih-7113
+
+#EXTINF:-1 channel-id="mjh-radio-ih-6937" tvg-id="mjh-radio-ih-6937" tvg-logo="https://i.iheart.com/v3/re/new_assets/56649344-0b94-4945-9108-33fdc076463e" group-title="Nz" radio="true" , Rhema
+https://i.mjh.nz/radio-ih-6937
+
+#EXTINF:-1 channel-id="mjh-radio-ih-6938" tvg-id="mjh-radio-ih-6938" tvg-logo="https://i.iheart.com/v3/re/new_assets/a14e380e-c29c-4720-9fac-03634ef73ddd" group-title="Nz" radio="true" , Life FM
+https://i.mjh.nz/radio-ih-6938
+
+#EXTINF:-1 channel-id="mjh-radio-ih-6939" tvg-id="mjh-radio-ih-6939" tvg-logo="https://i.iheart.com/v3/re/new_assets/93951f11-a290-46af-b812-4e523fea68a2" group-title="Nz" radio="true" , Southern Star
+https://i.mjh.nz/radio-ih-6939
+
+#EXTINF:-1 channel-id="mjh-radio-ih-6965" tvg-id="mjh-radio-ih-6965" tvg-logo="https://i.iheart.com/v3/re/new_assets/3d16e17a-1fb6-46ca-8703-16232e5ea60b" group-title="Nz" radio="true" , NBR Radio
+https://i.mjh.nz/radio-ih-6965
+
+#EXTINF:-1 channel-id="mjh-radio-ih-6897" tvg-id="mjh-radio-ih-6897" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64af92e24cc0a4dec3e39126" group-title="Nz" radio="true" , The Hits Southern Lakes
+https://i.mjh.nz/radio-ih-6897
+
+#EXTINF:-1 channel-id="mjh-radio-ih-6676" tvg-id="mjh-radio-ih-6676" tvg-logo="https://i.iheart.com/v3/re/new_assets/5b7b3d37173d12eee163e3e2" group-title="Nz" radio="true" , Radio Tarana
+https://i.mjh.nz/radio-ih-6676
+
+#EXTINF:-1 channel-id="mjh-radio-ih-6693" tvg-id="mjh-radio-ih-6693" tvg-logo="https://i.iheart.com/v3/re/new_assets/583c8944193955396e3a3467" group-title="Nz" radio="true" , Alternative Commentary Collective
+https://i.mjh.nz/radio-ih-6693
+
+#EXTINF:-1 channel-id="mjh-radio-ih-6465" tvg-id="mjh-radio-ih-6465" tvg-logo="https://i.iheart.com/v3/re/assets/images/36a7fa80-1ac8-4a3d-8b8b-04f97816b098.png" group-title="Nz" radio="true" , Country Nation
+https://i.mjh.nz/radio-ih-6465
+
+#EXTINF:-1 channel-id="mjh-radio-ih-6373" tvg-id="mjh-radio-ih-6373" tvg-logo="https://i.iheart.com/v3/re/assets/images/3fe0ed5a-ffda-4735-8713-b67acd158380.png" group-title="Nz" radio="true" , Official NZ Top 20
+https://i.mjh.nz/radio-ih-6373
+
+#EXTINF:-1 channel-id="mjh-radio-ih-6374" tvg-id="mjh-radio-ih-6374" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64ab8129e1e5b9624d5ccbf0" group-title="Nz" radio="true" , Radio Hauraki Auckland
+https://i.mjh.nz/radio-ih-6374
+
+#EXTINF:-1 channel-id="mjh-radio-ih-6193" tvg-id="mjh-radio-ih-6193" tvg-logo="https://i.iheart.com/v3/re/new_assets/61c67f799e3a2e305ba2581f" group-title="Nz" radio="true" , Coast
+https://i.mjh.nz/radio-ih-6193
+
+#EXTINF:-1 channel-id="mjh-radio-ih-6196" tvg-id="mjh-radio-ih-6196" tvg-logo="https://i.iheart.com/v3/re/new_assets/5f9f032d58f229803f23ebf9" group-title="Nz" radio="true" , Hokonui Southland
+https://i.mjh.nz/radio-ih-6196
+
+#EXTINF:-1 channel-id="mjh-radio-ih-6197" tvg-id="mjh-radio-ih-6197" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64af92334cc0a4dec3e3911a" group-title="Nz" radio="true" , The Hits Auckland
+https://i.mjh.nz/radio-ih-6197
+
+#EXTINF:-1 channel-id="mjh-radio-ih-6198" tvg-id="mjh-radio-ih-6198" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64af92e24cc0a4dec3e3912a" group-title="Nz" radio="true" , The Hits Wellington
+https://i.mjh.nz/radio-ih-6198
+
+#EXTINF:-1 channel-id="mjh-radio-ih-6199" tvg-id="mjh-radio-ih-6199" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64af92e24cc0a4dec3e3911f" group-title="Nz" radio="true" , The Hits Canterbury
+https://i.mjh.nz/radio-ih-6199
+
+#EXTINF:-1 channel-id="mjh-radio-ih-6202" tvg-id="mjh-radio-ih-6202" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64af92e24cc0a4dec3e3911e" group-title="Nz" radio="true" , The Hits Bay of Plenty
+https://i.mjh.nz/radio-ih-6202
+
+#EXTINF:-1 channel-id="mjh-radio-ih-6203" tvg-id="mjh-radio-ih-6203" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64af92e24cc0a4dec3e39120" group-title="Nz" radio="true" , The Hits Dunedin
+https://i.mjh.nz/radio-ih-6203
+
+#EXTINF:-1 channel-id="mjh-radio-ih-6204" tvg-id="mjh-radio-ih-6204" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64af92e24cc0a4dec3e39121" group-title="Nz" radio="true" , The Hits Hawkes Bay
+https://i.mjh.nz/radio-ih-6204
+
+#EXTINF:-1 channel-id="mjh-radio-ih-6205" tvg-id="mjh-radio-ih-6205" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64af92e24cc0a4dec3e39122" group-title="Nz" radio="true" , The Hits Manawatu
+https://i.mjh.nz/radio-ih-6205
+
+#EXTINF:-1 channel-id="mjh-radio-ih-6206" tvg-id="mjh-radio-ih-6206" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64af92e24cc0a4dec3e39123" group-title="Nz" radio="true" , The Hits Nelson
+https://i.mjh.nz/radio-ih-6206
+
+#EXTINF:-1 channel-id="mjh-radio-ih-6207" tvg-id="mjh-radio-ih-6207" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64af92e24cc0a4dec3e39124" group-title="Nz" radio="true" , The Hits Northland
+https://i.mjh.nz/radio-ih-6207
+
+#EXTINF:-1 channel-id="mjh-radio-ih-6208" tvg-id="mjh-radio-ih-6208" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64af92e24cc0a4dec3e39125" group-title="Nz" radio="true" , The Hits Rotorua
+https://i.mjh.nz/radio-ih-6208
+
+#EXTINF:-1 channel-id="mjh-radio-ih-6209" tvg-id="mjh-radio-ih-6209" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64af92e24cc0a4dec3e39127" group-title="Nz" radio="true" , The Hits Southland
+https://i.mjh.nz/radio-ih-6209
+
+#EXTINF:-1 channel-id="mjh-radio-ih-6210" tvg-id="mjh-radio-ih-6210" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64af92e24cc0a4dec3e39128" group-title="Nz" radio="true" , The Hits Taranaki
+https://i.mjh.nz/radio-ih-6210
+
+#EXTINF:-1 channel-id="mjh-radio-ih-6211" tvg-id="mjh-radio-ih-6211" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64af92e24cc0a4dec3e39129" group-title="Nz" radio="true" , The Hits Waikato
+https://i.mjh.nz/radio-ih-6211
+
+#EXTINF:-1 channel-id="mjh-radio-ih-6159" tvg-id="mjh-radio-ih-6159" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64ab7dd0e1e5b9624d5ccbd9" group-title="Nz" radio="true" , Flava Old School
+https://i.mjh.nz/radio-ih-6159
+
+#EXTINF:-1 channel-id="mjh-radio-ih-6187" tvg-id="mjh-radio-ih-6187" tvg-logo="https://i.iheart.com/v3/re/new_assets/5fdba4e7c50617d408b601a2" group-title="Nz" radio="true" , Newstalk ZB
+https://i.mjh.nz/radio-ih-6187
+
+#EXTINF:-1 channel-id="mjh-radio-ih-6188" tvg-id="mjh-radio-ih-6188" tvg-logo="https://i.iheart.com/v3/re/new_assets/5fdba519c50617d408b601a6" group-title="Nz" radio="true" , Newstalk ZB Wellington
+https://i.mjh.nz/radio-ih-6188
+
+#EXTINF:-1 channel-id="mjh-radio-ih-6189" tvg-id="mjh-radio-ih-6189" tvg-logo="https://i.iheart.com/v3/re/new_assets/5fdba4fac50617d408b601a4" group-title="Nz" radio="true" , Newstalk ZB Christchurch
+https://i.mjh.nz/radio-ih-6189
+
+#EXTINF:-1 channel-id="mjh-radio-ih-6191" tvg-id="mjh-radio-ih-6191" tvg-logo="https://i.iheart.com/v3/re/new_assets/62a68d61d099aa5d66a8e3cc" group-title="Nz" radio="true" , Radio Hauraki
+https://i.mjh.nz/radio-ih-6191
+
+#EXTINF:-1 channel-id="mjh-radio-ih-9694" tvg-id="mjh-radio-ih-9694" tvg-logo="https://i.iheart.com/v3/re/new_assets/63d989c82d37dbccc72d1f73" group-title="Nz" radio="true" , Trucking Radio 24/7
+https://i.mjh.nz/radio-ih-9694
+
+#EXTINF:-1 channel-id="mjh-radio-ih-9891" tvg-id="mjh-radio-ih-9891" tvg-logo="https://i.iheart.com/v3/re/assets.streams/6494f9fdd4b8e07250cccaff" group-title="Nz" radio="true" , ZM Curated by Dan Aux
+https://i.mjh.nz/radio-ih-9891
+
+#EXTINF:-1 channel-id="mjh-radio-ih-9908" tvg-id="mjh-radio-ih-9908" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64ab8129e1e5b9624d5ccbf2" group-title="Nz" radio="true" , Radio Hauraki Waikato
+https://i.mjh.nz/radio-ih-9908
+
+#EXTINF:-1 channel-id="mjh-radio-ih-9909" tvg-id="mjh-radio-ih-9909" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64ab7fd2e1e5b9624d5ccbe8" group-title="Nz" radio="true" , Gold Sport Waikato
+https://i.mjh.nz/radio-ih-9909
+
+#EXTINF:-1 channel-id="mjh-radio-ih-9910" tvg-id="mjh-radio-ih-9910" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64a20b3d773dd6ebf2b9eaa5" group-title="Nz" radio="true" , Newstalk ZB Waikato
+https://i.mjh.nz/radio-ih-9910
+
+#EXTINF:-1 channel-id="mjh-radio-ih-6194" tvg-id="mjh-radio-ih-6194" tvg-logo="https://i.iheart.com/v3/re/new_assets/62cf578c8ce2a5638f10df6a" group-title="Nz" radio="true" , Gold Sport Extra
+https://i.mjh.nz/radio-ih-6194
+
+#EXTINF:-1 channel-id="mjh-radio-ih-9649" tvg-id="mjh-radio-ih-9649" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64ab7dd0e1e5b9624d5ccbd8" group-title="Nz" radio="true" , Flava Christchurch
+https://i.mjh.nz/radio-ih-9649
+
+#EXTINF:-1 channel-id="mjh-radio-ih-9907" tvg-id="mjh-radio-ih-9907" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64ab7d73e1e5b9624d5ccbd4" group-title="Nz" radio="true" , Coast Waikato
+https://i.mjh.nz/radio-ih-9907
+
+#EXTINF:-1 channel-id="mjh-radio-ih-6868" tvg-id="mjh-radio-ih-6868" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64d3b6874d9a385ab13187ee" group-title="Nz" radio="true" , RNZ Pacific
+https://i.mjh.nz/radio-ih-6868
+
+#EXTINF:-1 channel-id="mjh-radio-ih-6866" tvg-id="mjh-radio-ih-6866" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64d3b6874d9a385ab13187ed" group-title="Nz" radio="true" , RNZ National
+https://i.mjh.nz/radio-ih-6866
+
+#EXTINF:-1 channel-id="mjh-radio-ih-6867" tvg-id="mjh-radio-ih-6867" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64d3b6874d9a385ab13187ef" group-title="Nz" radio="true" , RNZ Concert
+https://i.mjh.nz/radio-ih-6867
+
+#EXTINF:-1 channel-id="mjh-radio-ih-9941" tvg-id="mjh-radio-ih-9941" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64cc2148c6fdae5c6d96ba35" group-title="Nz" radio="true" , Flava 50 Years of Hip Hop
+https://i.mjh.nz/radio-ih-9941
+
+#EXTINF:-1 channel-id="mjh-radio-ih-9604" tvg-id="mjh-radio-ih-9604" tvg-logo="https://i.iheart.com/v3/re/new_assets/631166013d60e6b9c8f7a364" group-title="Nz" radio="true" , Coast Feel Good 500
+https://i.mjh.nz/radio-ih-9604
+
+#EXTINF:-1 channel-id="mjh-radio-ih-7946" tvg-id="mjh-radio-ih-7946" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64dc2ac68b7ed32e77782ef5" group-title="Nz" radio="true" , The Heat
+https://i.mjh.nz/radio-ih-7946
+
+#EXTINF:-1 channel-id="mjh-radio-ih-9558" tvg-id="mjh-radio-ih-9558" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64ab81dee1e5b9624d5ccbfa" group-title="Nz" radio="true" , ZM Christchurch
+https://i.mjh.nz/radio-ih-9558
+
+#EXTINF:-1 channel-id="mjh-radio-ih-9557" tvg-id="mjh-radio-ih-9557" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64ab81dee1e5b9624d5ccbfd" group-title="Nz" radio="true" , ZM Wellington
+https://i.mjh.nz/radio-ih-9557
+
+#EXTINF:-1 channel-id="mjh-radio-ih-9473" tvg-id="mjh-radio-ih-9473" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64ab81dee1e5b9624d5ccbf9" group-title="Nz" radio="true" , ZM Auckland
+https://i.mjh.nz/radio-ih-9473
+
+#EXTINF:-1 channel-id="mjh-radio-ih-6190" tvg-id="mjh-radio-ih-6190" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64ab81dee1e5b9624d5ccbfb" group-title="Nz" radio="true" , ZM
+https://i.mjh.nz/radio-ih-6190
+
+#EXTINF:-1 channel-id="mjh-radio-ih-9906" tvg-id="mjh-radio-ih-9906" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64ab81dee1e5b9624d5ccbfc" group-title="Nz" radio="true" , ZM Waikato
+https://i.mjh.nz/radio-ih-9906
+
+#EXTINF:-1 channel-id="mjh-radio-ih-8243" tvg-id="mjh-radio-ih-8243" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64dead3d2bf69d0140959fcc" group-title="Nz" radio="true" , Te Arawa FM
+https://i.mjh.nz/radio-ih-8243
+
+#EXTINF:-1 channel-id="mjh-radio-rv-biggayout247-01d903" tvg-id="mjh-radio-rv-biggayout247-01d903" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/ROVA_PODCAST_TEMPLATE_duncan_EIC_600x600.png" group-title="Nz" radio="true" , Duncan Garner Editor in Chief
+https://i.mjh.nz/radio-rv-biggayout247-01d903.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-channelx-eb83cb" tvg-id="mjh-radio-rv-channelx-eb83cb" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/Channel_X_landscape_600x600.png" group-title="Nz" radio="true" , Channel X
+https://i.mjh.nz/radio-rv-channelx-eb83cb.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-theupsidedown247-d4c5f2" tvg-id="mjh-radio-rv-theupsidedown247-d4c5f2" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/Jonas_Brothers_600x600.png" group-title="Nz" radio="true" , The Jonas Brothers Mixtape
+https://i.mjh.nz/radio-rv-theupsidedown247-d4c5f2.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-morebrekclub247-00010c" tvg-id="mjh-radio-rv-morebrekclub247-00010c" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/Tswift600x600.png" group-title="Nz" radio="true" , The Taylor Swift Mixtape
+https://i.mjh.nz/radio-rv-morebrekclub247-00010c.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-kiwi247-69fe88" tvg-id="mjh-radio-rv-kiwi247-69fe88" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/RV_Kiwi_Discovery_UPDATE.png" group-title="Nz" radio="true" , Kiwi Discovery
+https://i.mjh.nz/radio-rv-kiwi247-69fe88.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-edgetop100247-e60e71" tvg-id="mjh-radio-rv-edgetop100247-e60e71" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/EDG_RVA_Pres_600x600.png" group-title="Nz" radio="true" , The Edge Pre's
+https://i.mjh.nz/radio-rv-edgetop100247-e60e71.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-freshhits247-c3c0f2" tvg-id="mjh-radio-rv-freshhits247-c3c0f2" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/EDG_Fresh_Hits.png" group-title="Nz" radio="true" , The Edge Fresh Hits
+https://i.mjh.nz/radio-rv-freshhits247-c3c0f2.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-theedge-09a7e3" tvg-id="mjh-radio-rv-theedge-09a7e3" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/EDG_RV_Station_600x600.png" group-title="Nz" radio="true" , The Edge
+https://i.mjh.nz/radio-rv-theedge-09a7e3.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-popparty247-952ba6" tvg-id="mjh-radio-rv-popparty247-952ba6" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/EDG_Re_Wind_sq_600x600.png" group-title="Nz" radio="true" , The Edge Rewind
+https://i.mjh.nz/radio-rv-popparty247-952ba6.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-100k247-2125f8" tvg-id="mjh-radio-rv-100k247-2125f8" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/ROVA_WORKOUT_6_.png" group-title="Nz" radio="true" , Edge Workout
+https://i.mjh.nz/radio-rv-100k247-2125f8.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-elvisandfriends247-5b90fa" tvg-id="mjh-radio-rv-elvisandfriends247-5b90fa" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/Magic_Elvis_Tile_600x600px.jpg" group-title="Nz" radio="true" , Magic's Elvis & Friends
+https://i.mjh.nz/radio-rv-elvisandfriends247-5b90fa.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-bigcountry247-480831" tvg-id="mjh-radio-rv-bigcountry247-480831" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/RV_BC_600x600.png" group-title="Nz" radio="true" , Big Country
+https://i.mjh.nz/radio-rv-bigcountry247-480831.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-Magiccountry247-dd5ded" tvg-id="mjh-radio-rv-Magiccountry247-dd5ded" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/RVA_Magic_Classic_Country_600x600.png" group-title="Nz" radio="true" , Magic Classic Country
+https://i.mjh.nz/radio-rv-Magiccountry247-dd5ded.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-magic-559780" tvg-id="mjh-radio-rv-magic-559780" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/MAG_New_600x600.png" group-title="Nz" radio="true" , Magic Coromandel 104.4FM
+https://i.mjh.nz/radio-rv-magic-559780.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-beachhop247-31503b" tvg-id="mjh-radio-rv-beachhop247-31503b" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/MAG_RVA_BeachHop_23_600x600.png" group-title="Nz" radio="true" , Magic's Beach Hop
+https://i.mjh.nz/radio-rv-beachhop247-31503b.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-hshcount247-23ac16" tvg-id="mjh-radio-rv-hshcount247-23ac16" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/MFM_HSH_REPLAY2023_600x600.png" group-title="Nz" radio="true" , High School Hit Countdown 2023 Replay
+https://i.mjh.nz/radio-rv-hshcount247-23ac16.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-highschoolhits247-d102c7" tvg-id="mjh-radio-rv-highschoolhits247-d102c7" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/600x600_2_HSH.png" group-title="Nz" radio="true" , High School Hits
+https://i.mjh.nz/radio-rv-highschoolhits247-d102c7.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-morepg247-3ad99f" tvg-id="mjh-radio-rv-morepg247-3ad99f" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/ROVA_WORKOUT_3_.png" group-title="Nz" radio="true" , More Workout
+https://i.mjh.nz/radio-rv-morepg247-3ad99f.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-morefm-6dda63" tvg-id="mjh-radio-rv-morefm-6dda63" tvg-logo="https://cdn.mediaworks.nz/aem/corporate/RV_x_MFM_600x600.png" group-title="Nz" radio="true" , MoreFM Coromandel - 90.3/89.9/93.9/89.1/97.2FM
+https://i.mjh.nz/radio-rv-morefm-6dda63.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-more90s247-4ce219" tvg-id="mjh-radio-rv-more90s247-4ce219" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/MRE_90s_600x600.png" group-title="Nz" radio="true" , More FM's Nothing But 90s
+https://i.mjh.nz/radio-rv-more90s247-4ce219.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-kids247-e5f4b9" tvg-id="mjh-radio-rv-kids247-e5f4b9" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/Pink_Mixtap3_600x600.png" group-title="Nz" radio="true" , The Pink Mixtape
+https://i.mjh.nz/radio-rv-kids247-e5f4b9.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-classicchristmas247-0fe4bf" tvg-id="mjh-radio-rv-classicchristmas247-0fe4bf" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/MFM_NOTHING_BUT_LOVE_SONGS_600x600.png" group-title="Nz" radio="true" , More FM's Nothing But Love Songs
+https://i.mjh.nz/radio-rv-classicchristmas247-0fe4bf.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-disney247-3a5428" tvg-id="mjh-radio-rv-disney247-3a5428" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/Disney_Mixtape_600x600.png" group-title="Nz" radio="true" , The Disney Mixtape
+https://i.mjh.nz/radio-rv-disney247-3a5428.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-georgednb247-c853fe" tvg-id="mjh-radio-rv-georgednb247-c853fe" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/GRG_George_FM_DnB_Hundy_600x600px.png" group-title="Nz" radio="true" , George DnB
+https://i.mjh.nz/radio-rv-georgednb247-c853fe.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-HouseRoadie247-4565f1" tvg-id="mjh-radio-rv-HouseRoadie247-4565f1" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/ROVA_WORKOUT_5_.png" group-title="Nz" radio="true" , George Workout
+https://i.mjh.nz/radio-rv-HouseRoadie247-4565f1.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-chillsville247-4b8068" tvg-id="mjh-radio-rv-chillsville247-4b8068" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/RV_Chillsville_sq_600x600_v.png" group-title="Nz" radio="true" , George Chillsville
+https://i.mjh.nz/radio-rv-chillsville247-4b8068.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-georgefm-1262cc" tvg-id="mjh-radio-rv-georgefm-1262cc" tvg-logo="https://cdn.mediaworks.nz/rova/Content/apps/images/RV_x_GRG_600x600.png" group-title="Nz" radio="true" , George FM
+https://i.mjh.nz/radio-rv-georgefm-1262cc.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-clubclassics247-3f40fa" tvg-id="mjh-radio-rv-clubclassics247-3f40fa" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/GRG_Club_Classics_Respin_RV_600x6004.png" group-title="Nz" radio="true" , George Club Classics Respin
+https://i.mjh.nz/radio-rv-clubclassics247-3f40fa.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-georgelatestbangers247-b3c445" tvg-id="mjh-radio-rv-georgelatestbangers247-b3c445" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/RVA_Latest_Bangers_square.png" group-title="Nz" radio="true" , George Latest Bangers
+https://i.mjh.nz/radio-rv-georgelatestbangers247-b3c445.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-bestofboybands247-795d45" tvg-id="mjh-radio-rv-bestofboybands247-795d45" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/HUMM_80s_JUKEBOX_1080x1080.png" group-title="Nz" radio="true" , Humm 80s Jukebox
+https://i.mjh.nz/radio-rv-bestofboybands247-795d45.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-7days247-6ae7f9" tvg-id="mjh-radio-rv-7days247-6ae7f9" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/HUMM_FIJI_KIRTAN_SANGRAPH_600x600.png" group-title="Nz" radio="true" , Fiji Kirtan Sangrah
+https://i.mjh.nz/radio-rv-7days247-6ae7f9.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-rocklegends247-22e5a9" tvg-id="mjh-radio-rv-rocklegends247-22e5a9" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/voafone_rock.jpg" group-title="Nz" radio="true" , The Rock Legends Of Rock
+https://i.mjh.nz/radio-rv-rocklegends247-22e5a9.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-punkrock247-0da0d1" tvg-id="mjh-radio-rv-punkrock247-0da0d1" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/RVA_FOO_S_FRIENDS_2_600x600.png" group-title="Nz" radio="true" , The Rock's Foo's & Friends
+https://i.mjh.nz/radio-rv-punkrock247-0da0d1.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-rock90s247-848342" tvg-id="mjh-radio-rv-rock90s247-848342" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/RVA_ROK90s_600x600_final_client.png" group-title="Nz" radio="true" , The Rock 90s
+https://i.mjh.nz/radio-rv-rock90s247-848342.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-therock-2b1b23" tvg-id="mjh-radio-rv-therock-2b1b23" tvg-logo="https://cdn.mediaworks.nz/aem/corporate/RV_x_ROK_600x600.png" group-title="Nz" radio="true" , The Rock
+https://i.mjh.nz/radio-rv-therock-2b1b23.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-duckyeah247-ce3d42" tvg-id="mjh-radio-rv-duckyeah247-ce3d42" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/RVA_DUCK_YEAH_600x600.png" group-title="Nz" radio="true" , The Rock Duck Yeah
+https://i.mjh.nz/radio-rv-duckyeah247-ce3d42.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-pootowns247-9d9c77" tvg-id="mjh-radio-rv-pootowns247-9d9c77" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/Ozzy_600x600.png" group-title="Nz" radio="true" , The Ozzy Mixtape
+https://i.mjh.nz/radio-rv-pootowns247-9d9c77.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-nzmusicmonth247-4e966c" tvg-id="mjh-radio-rv-nzmusicmonth247-4e966c" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/ROVA_WORKOUT_9_.png" group-title="Nz" radio="true" , Rock Workout
+https://i.mjh.nz/radio-rv-nzmusicmonth247-4e966c.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-vanillarock247-fe491c" tvg-id="mjh-radio-rv-vanillarock247-fe491c" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/ROK_Vanilla_Rock_600x600.png" group-title="Nz" radio="true" , The Rock's Vanilla Rock
+https://i.mjh.nz/radio-rv-vanillarock247-fe491c.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-dj09247-6baa16" tvg-id="mjh-radio-rv-dj09247-6baa16" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/Kendrick_FM_600x600px.jpg" group-title="Nz" radio="true" , Mai's Kendrick FM
+https://i.mjh.nz/radio-rv-dj09247-6baa16.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-rhythm247-536f8a" tvg-id="mjh-radio-rv-rhythm247-536f8a" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/Justin_Timberlake_600x600.png" group-title="Nz" radio="true" , The Justin Timberlake Mixtape
+https://i.mjh.nz/radio-rv-rhythm247-536f8a.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-gymbangers247-218bfd" tvg-id="mjh-radio-rv-gymbangers247-218bfd" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/Six6_600x600.png" group-title="Nz" radio="true" , The Six60 Mixtape
+https://i.mjh.nz/radio-rv-gymbangers247-218bfd.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-maimixes-5d3f3d" tvg-id="mjh-radio-rv-maimixes-5d3f3d" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/ROVA_WORKOUT_8_.png" group-title="Nz" radio="true" , Mai Workout
+https://i.mjh.nz/radio-rv-maimixes-5d3f3d.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-matariki247-23cbeb" tvg-id="mjh-radio-rv-matariki247-23cbeb" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/Mai_Irie_Anthems_600x600_final.png" group-title="Nz" radio="true" , Irie Anthems
+https://i.mjh.nz/radio-rv-matariki247-23cbeb.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-maisummerjams247-2d3968" tvg-id="mjh-radio-rv-maisummerjams247-2d3968" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/EdenFestRova_600x600_square_1_.png" group-title="Nz" radio="true" , Eden Festival
+https://i.mjh.nz/radio-rv-maisummerjams247-2d3968.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-maithrowbacks247-2bca4f" tvg-id="mjh-radio-rv-maithrowbacks247-2bca4f" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/download_2_.png" group-title="Nz" radio="true" , Mai Throwbacks
+https://i.mjh.nz/radio-rv-maithrowbacks247-2bca4f.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-classical247-2fe609" tvg-id="mjh-radio-rv-classical247-2fe609" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/Eminem_mixtape_600x600.png" group-title="Nz" radio="true" , The Eminem Mixtape
+https://i.mjh.nz/radio-rv-classical247-2fe609.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-maibreakers247-c07f3f" tvg-id="mjh-radio-rv-maibreakers247-c07f3f" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/MAJOR_MAORI_MIXTAPE_600x600.png" group-title="Nz" radio="true" , Maori Mixtape
+https://i.mjh.nz/radio-rv-maibreakers247-c07f3f.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-bestofthefests247-46b849" tvg-id="mjh-radio-rv-bestofthefests247-46b849" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/MAI_50CENT_600x600.png" group-title="Nz" radio="true" , 50 Cent & Friends
+https://i.mjh.nz/radio-rv-bestofthefests247-46b849.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-mai-fm-85ed25" tvg-id="mjh-radio-rv-mai-fm-85ed25" tvg-logo="https://cdn.mediaworks.nz/mai-fm_auckland/Content/shows/images/1537252180508_mai-generic-announcer-artwork-600x600.png?width=[width]&height=[height]&crop=auto" group-title="Nz" radio="true" , Mai FM
+https://i.mjh.nz/radio-rv-mai-fm-85ed25.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-majorflavours247-ce532d" tvg-id="mjh-radio-rv-majorflavours247-ce532d" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/MAI_Major_Flavours_Rova_600x600_4.png" group-title="Nz" radio="true" , Major Flavors VOL. 1
+https://i.mjh.nz/radio-rv-majorflavours247-ce532d.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-girlzwithgrillz247-dc8f1f" tvg-id="mjh-radio-rv-girlzwithgrillz247-dc8f1f" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/MAI_Major_Flavours_Rova_600x600_5.png" group-title="Nz" radio="true" , Major Flavors VOL. 3
+https://i.mjh.nz/radio-rv-girlzwithgrillz247-dc8f1f.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-djsirvere247-c99967" tvg-id="mjh-radio-rv-djsirvere247-c99967" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/MAI_Major_Flavours_Rova_600x600_3.png" group-title="Nz" radio="true" , Major Flavors VOL. 2
+https://i.mjh.nz/radio-rv-djsirvere247-c99967.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-rnbroadie247-1addde" tvg-id="mjh-radio-rv-rnbroadie247-1addde" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/MAI_Major_Flavours_Rova_600x600_2.png" group-title="Nz" radio="true" , Major Flavors VOL. 4
+https://i.mjh.nz/radio-rv-rnbroadie247-1addde.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-waiataanthems247-e4f500" tvg-id="mjh-radio-rv-waiataanthems247-e4f500" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/MAI_Major_Flavours_Rova_600x600_1.png" group-title="Nz" radio="true" , Major Flavors VOL. 5
+https://i.mjh.nz/radio-rv-waiataanthems247-e4f500.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-maiallstars247-90d06a" tvg-id="mjh-radio-rv-maiallstars247-90d06a" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/MAI_WAIATA_REO_MAORI_600x600.png" group-title="Nz" radio="true" , Waiata Reo Maori
+https://i.mjh.nz/radio-rv-maiallstars247-90d06a.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-top200247-82a78c" tvg-id="mjh-radio-rv-top200247-82a78c" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/MAI_T200_23_600x600.png" group-title="Nz" radio="true" , Top 200 of the 2000's
+https://i.mjh.nz/radio-rv-top200247-82a78c.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-backyardbeats247-fa10df" tvg-id="mjh-radio-rv-backyardbeats247-fa10df" tvg-logo="https://cdn.mediaworks.nz/rova/Content/apps/images/MAI_Rova_The_Mai_Backyard_Beats_3_50_600x600.png" group-title="Nz" radio="true" , Mai Backyard Beats
+https://i.mjh.nz/radio-rv-backyardbeats247-fa10df.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-maiheatseekers247-59742f" tvg-id="mjh-radio-rv-maiheatseekers247-59742f" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/RVA_Heatseekers_square.png" group-title="Nz" radio="true" , Mai Heatseekers
+https://i.mjh.nz/radio-rv-maiheatseekers247-59742f.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-liveaid247-be5c73" tvg-id="mjh-radio-rv-liveaid247-be5c73" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/RVA_Hall_Of_Fame_600x600.png" group-title="Nz" radio="true" , Sound Hall Of Fame 2022
+https://i.mjh.nz/radio-rv-liveaid247-be5c73.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-thesoundbruce247-6434bc" tvg-id="mjh-radio-rv-thesoundbruce247-6434bc" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/SND_RVA_GOING_UNDERGROUND_600x600.png" group-title="Nz" radio="true" , Going Underground
+https://i.mjh.nz/radio-rv-thesoundbruce247-6434bc.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-deepcuts247-d8285d" tvg-id="mjh-radio-rv-deepcuts247-d8285d" tvg-logo="https://cdn.mediaworks.nz/aem/corporate/SND_Deep_Cuts_NoFreq_600x600.png" group-title="Nz" radio="true" , The Sound Deep Cuts
+https://i.mjh.nz/radio-rv-deepcuts247-d8285d.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-thesound-87f260" tvg-id="mjh-radio-rv-thesound-87f260" tvg-logo="https://cdn.mediaworks.nz/thesound/Content/shows/images/default_app.jpg?width=[width]&height=[height]&crop=auto" group-title="Nz" radio="true" , The Sound
+https://i.mjh.nz/radio-rv-thesound-87f260.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-soundclassic247-245f5a" tvg-id="mjh-radio-rv-soundclassic247-245f5a" tvg-logo="https://cdn.mediaworks.nz/rova/Content/apps/images/SND_Classics_600x600.png" group-title="Nz" radio="true" , Sound Classic
+https://i.mjh.nz/radio-rv-soundclassic247-245f5a.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-acousticsunrise247-5a3df7" tvg-id="mjh-radio-rv-acousticsunrise247-5a3df7" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/SND_AS_600x600.png" group-title="Nz" radio="true" , Acoustic Sunrise
+https://i.mjh.nz/radio-rv-acousticsunrise247-5a3df7.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-hohohits247-d0e27b" tvg-id="mjh-radio-rv-hohohits247-d0e27b" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/RVA_MORGAN_WALLEN_600x600.png" group-title="Nz" radio="true" , The Morgan Wallen Mixtape
+https://i.mjh.nz/radio-rv-hohohits247-d0e27b.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-breezesoothingsounds247-742fc9" tvg-id="mjh-radio-rv-breezesoothingsounds247-742fc9" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/BRZ_WOMEN_600x600.png" group-title="Nz" radio="true" , Breeze Women
+https://i.mjh.nz/radio-rv-breezesoothingsounds247-742fc9.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-totally80s247-3b1842" tvg-id="mjh-radio-rv-totally80s247-3b1842" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/Breeeze_80s_600x600.png" group-title="Nz" radio="true" , Totally 80s
+https://i.mjh.nz/radio-rv-totally80s247-3b1842.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-todayscountry247-cc916c" tvg-id="mjh-radio-rv-todayscountry247-cc916c" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/Luke_600x600.png" group-title="Nz" radio="true" , Today's Country
+https://i.mjh.nz/radio-rv-todayscountry247-cc916c.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-breezerickdees247-ce10c4" tvg-id="mjh-radio-rv-breezerickdees247-ce10c4" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/ROVA_WORKOUT.png" group-title="Nz" radio="true" , Breeze Workout
+https://i.mjh.nz/radio-rv-breezerickdees247-ce10c4.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-thebreeze-822a11" tvg-id="mjh-radio-rv-thebreeze-822a11" tvg-logo="https://cdn.mediaworks.nz/aem/corporate/RV_x_BRZ_600x600.png" group-title="Nz" radio="true" , The Breeze Coromandel - 96.7FM/99.5FM/90.7FM/90.8FM
+https://i.mjh.nz/radio-rv-thebreeze-822a11.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-breezemeditation247-8058b4" tvg-id="mjh-radio-rv-breezemeditation247-8058b4" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/BRZ_ROVA_SLEEP_600x600.png" group-title="Nz" radio="true" , Breeze Sleep
+https://i.mjh.nz/radio-rv-breezemeditation247-8058b4.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-breezerelax247-bc4faa" tvg-id="mjh-radio-rv-breezerelax247-bc4faa" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/RVA_BRZ_Relax_Final_600x600.png" group-title="Nz" radio="true" , Breeze Relax
+https://i.mjh.nz/radio-rv-breezerelax247-bc4faa.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-rovabaydreams247-cbc985" tvg-id="mjh-radio-rv-rovabaydreams247-cbc985" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/CHARHDI_KALA_2_1080x1080.png" group-title="Nz" radio="true" , Charhdi Kala
+https://i.mjh.nz/radio-rv-rovabaydreams247-cbc985.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-hummfm247-c2e376" tvg-id="mjh-radio-rv-hummfm247-c2e376" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/HUMM_Rova_600x600.png" group-title="Nz" radio="true" , Humm
+https://i.mjh.nz/radio-rv-hummfm247-c2e376.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-radiotarana-ee44c4" tvg-id="mjh-radio-rv-radiotarana-ee44c4" tvg-logo="https://cdn.mediaworks.nz/aem/corporate/Rova_Tarana_600x600.png" group-title="Nz" radio="true" , Radio Tarana
+https://i.mjh.nz/radio-rv-radiotarana-ee44c4.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-radiodunedin-e3c692" tvg-id="mjh-radio-rv-radiodunedin-e3c692" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/RD_600_x_600_Square.png" group-title="Nz" radio="true" , Radio Dunedin
+https://i.mjh.nz/radio-rv-radiodunedin-e3c692.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-trackside-524cb6" tvg-id="mjh-radio-rv-trackside-524cb6" tvg-logo="https://cdn.mediaworks.nz/aem/corporate/Rova_Trackside_600x600.png" group-title="Nz" radio="true" , TAB Trackside Radio
+https://i.mjh.nz/radio-rv-trackside-524cb6.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-rnznational247-eec039" tvg-id="mjh-radio-rv-rnznational247-eec039" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/RNZ_National_Generic_600x600_Sq.png" group-title="Nz" radio="true" , RNZ National
+https://i.mjh.nz/radio-rv-rnznational247-eec039.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-rnzconcert247-98091b" tvg-id="mjh-radio-rv-rnzconcert247-98091b" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/RNZ_Concert_Generic_600x600.png" group-title="Nz" radio="true" , RNZ Concert
+https://i.mjh.nz/radio-rv-rnzconcert247-98091b.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-rnztahi247-4ee040" tvg-id="mjh-radio-rv-rnztahi247-4ee040" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/tahi_now_playing.jpg" group-title="Nz" radio="true" , TAHI
+https://i.mjh.nz/radio-rv-rnztahi247-4ee040.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-rnzpacific247-34924e" tvg-id="mjh-radio-rv-rnzpacific247-34924e" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/RNZ_Pacific_Generic_600x600.png" group-title="Nz" radio="true" , RNZ Pacific
+https://i.mjh.nz/radio-rv-rnzpacific247-34924e.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-lit-05f564" tvg-id="mjh-radio-rv-lit-05f564" tvg-logo="https://cdn.mediaworks.nz/rova/Content/apps/images/RV_Rova_Lit_Live_from_india_600x600.png" group-title="Nz" radio="true" , Lit
+https://i.mjh.nz/radio-rv-lit-05f564.aac
+
+#EXTINF:-1 channel-id="mjh-radio-rv-surfrock247-c2a7ac" tvg-id="mjh-radio-rv-surfrock247-c2a7ac" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/RVA_Indie_Mix_Sq_600x600.png" group-title="Nz" radio="true" , The Indie Mixtape
+https://i.mjh.nz/radio-rv-surfrock247-c2a7ac.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-theedgemix247-e9c20e" tvg-id="mjh-radio-rv-theedgemix247-e9c20e" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/1659041748553_edge_mix_600x600.png" group-title="Nz" radio="true" , DJ Sean Hill in the Mix
+https://i.mjh.nz/radio-rv-theedgemix247-e9c20e.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-aotearoahiphop247-bed1c7" tvg-id="mjh-radio-rv-aotearoahiphop247-bed1c7" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/RV_AHH_Podcast_600x600.jpg" group-title="Nz" radio="true" , Aotearoa Hip Hop - The Soundtrack
+https://i.mjh.nz/radio-rv-aotearoahiphop247-bed1c7.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-chillhop247-0a081d" tvg-id="mjh-radio-rv-chillhop247-0a081d" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/Rova_Chill_Hop_600x600.png" group-title="Nz" radio="true" , Chill Hop
+https://i.mjh.nz/radio-rv-chillhop247-0a081d.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-jordanlee247-1e758f" tvg-id="mjh-radio-rv-jordanlee247-1e758f" tvg-logo="https://cdn.mediaworks.nz/aem/corporate/MAI_Mai_J_LEE_artwork_600x600.png" group-title="Nz" radio="true" , Jordan Lee In The Mix
+https://i.mjh.nz/radio-rv-jordanlee247-1e758f.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-georgecocktailhour247-5237c0" tvg-id="mjh-radio-rv-georgecocktailhour247-5237c0" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/GRG_RVA_CocktailHour_600x600_1_.png" group-title="Nz" radio="true" , George FM Cocktail Hour
+https://i.mjh.nz/radio-rv-georgecocktailhour247-5237c0.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-kiwirock247-25f901" tvg-id="mjh-radio-rv-kiwirock247-25f901" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/RVA_KIWI_ROK_600x600.png" group-title="Nz" radio="true" , The Rock Kiwi Rock
+https://i.mjh.nz/radio-rv-kiwirock247-25f901.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-atoz247-4edb61" tvg-id="mjh-radio-rv-atoz247-4edb61" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/download_6_.png" group-title="Nz" radio="true" , The Sound A to Z Replay
+https://i.mjh.nz/radio-rv-atoz247-4edb61.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-chillcountry247-dbfd63" tvg-id="mjh-radio-rv-chillcountry247-dbfd63" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/Rova_Chill_Country_600x600.png" group-title="Nz" radio="true" , Chill Country
+https://i.mjh.nz/radio-rv-chillcountry247-dbfd63.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-okboomer-87486d" tvg-id="mjh-radio-rv-okboomer-87486d" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/Waves_96.1_600x600.png" group-title="Nz" radio="true" , Waves
+https://i.mjh.nz/radio-rv-okboomer-87486d.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-firstandbest247-b29eb2" tvg-id="mjh-radio-rv-firstandbest247-b29eb2" tvg-logo="https://cdn.mediaworks.nz/aem/corporate/RV_Rova_New_Channel_First_and_best_600x600.png" group-title="Nz" radio="true" , First & Best
+https://i.mjh.nz/radio-rv-firstandbest247-b29eb2.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-beachfm247-5193a4" tvg-id="mjh-radio-rv-beachfm247-5193a4" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/RVA_BEACH_FM_600x600.png" group-title="Nz" radio="true" , Beach FM 106.3 - Kapiti
+https://i.mjh.nz/radio-rv-beachfm247-5193a4.m3u
+
+#EXTINF:-1 channel-id="mjh-radio-rv-nuifm-ccad31" tvg-id="mjh-radio-rv-nuifm-ccad31" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/RVA_NUI_FM_600x600.png" group-title="Nz" radio="true" , Nui FM
+https://i.mjh.nz/radio-rv-nuifm-ccad31.mp3
+
+#EXTINF:-1 channel-id="mjh-radio-rv-peakfm247-335396" tvg-id="mjh-radio-rv-peakfm247-335396" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/RVA_Peak_FM_600x600.png" group-title="Nz" radio="true" , Peak FM
+https://i.mjh.nz/radio-rv-peakfm247-335396
+
+#EXTINF:-1 channel-id="mjh-radio-rv-anthemz-5fce07" tvg-id="mjh-radio-rv-anthemz-5fce07" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/anthemz600sq.png" group-title="Nz" radio="true" , Anthemz
+https://i.mjh.nz/radio-rv-anthemz-5fce07.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-playitstrange247-cf8231" tvg-id="mjh-radio-rv-playitstrange247-cf8231" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/ROVA_600x600_Square.png" group-title="Nz" radio="true" , Play It Strange
+https://i.mjh.nz/radio-rv-playitstrange247-cf8231.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-podcastradio247-e91917" tvg-id="mjh-radio-rv-podcastradio247-e91917" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/RVA_Radio_600x600.png" group-title="Nz" radio="true" , Podcast Radio
+https://i.mjh.nz/radio-rv-podcastradio247-e91917.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-rex-cf8a81" tvg-id="mjh-radio-rv-rex-cf8a81" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/REX_rural_exchange.jpg" group-title="Nz" radio="true" , REX Radio
+https://i.mjh.nz/radio-rv-rex-cf8a81.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-acousticchill247-9ace13" tvg-id="mjh-radio-rv-acousticchill247-9ace13" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/Rova_Acoustic_Chill_600x600.png" group-title="Nz" radio="true" , Acoustic Chill
+https://i.mjh.nz/radio-rv-acousticchill247-9ace13.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-niallhoran247-cc490b" tvg-id="mjh-radio-rv-niallhoran247-cc490b" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/Niall_Horan_Mixtape_600x600.png" group-title="Nz" radio="true" , The Niall Horan Mixtape
+https://i.mjh.nz/radio-rv-niallhoran247-cc490b.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-headsfm247-36441b" tvg-id="mjh-radio-rv-headsfm247-36441b" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/Heads_600x600.png" group-title="Nz" radio="true" , Heads FM
+https://i.mjh.nz/radio-rv-headsfm247-36441b
+
+#EXTINF:-1 channel-id="mjh-radio-rv-thewireless247-ce5fd4" tvg-id="mjh-radio-rv-thewireless247-ce5fd4" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/600x600.jpg" group-title="Nz" radio="true" , The Wireless
+https://i.mjh.nz/radio-rv-thewireless247-ce5fd4
+
+#EXTINF:-1 channel-id="mjh-radio-rv-edgepres247-939214" tvg-id="mjh-radio-rv-edgepres247-939214" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/Chris_Brown_mixtape_600x600.png" group-title="Nz" radio="true" , The Chris Brown Mixtape
+https://i.mjh.nz/radio-rv-edgepres247-939214.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-fitmix247-b52c6e" tvg-id="mjh-radio-rv-fitmix247-b52c6e" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/lizzo_600x600.png" group-title="Nz" radio="true" , The Lizzo Mixtape
+https://i.mjh.nz/radio-rv-fitmix247-b52c6e.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-danaux247-dc5dfc" tvg-id="mjh-radio-rv-danaux247-dc5dfc" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/1D_600x600.png" group-title="Nz" radio="true" , The One Direction Mixtape
+https://i.mjh.nz/radio-rv-danaux247-dc5dfc.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-seashanties247-a57d1b" tvg-id="mjh-radio-rv-seashanties247-a57d1b" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/Selena_600x600.png" group-title="Nz" radio="true" , The Selena Gomez Mixtape
+https://i.mjh.nz/radio-rv-seashanties247-a57d1b.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-rihanna247-400304" tvg-id="mjh-radio-rv-rihanna247-400304" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/Rihanna_music_600x600.png" group-title="Nz" radio="true" , The Rihanna Mixtape
+https://i.mjh.nz/radio-rv-rihanna247-400304.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-harrystyles247-c0a4ca" tvg-id="mjh-radio-rv-harrystyles247-c0a4ca" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/RVharrystyles.png" group-title="Nz" radio="true" , The Harry Styles Mixtape
+https://i.mjh.nz/radio-rv-harrystyles247-c0a4ca.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-edge40247-acb5e8" tvg-id="mjh-radio-rv-edge40247-acb5e8" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/RVA_BLINK_182_600x600.png" group-title="Nz" radio="true" , The blink-182 Mixtape
+https://i.mjh.nz/radio-rv-edge40247-acb5e8.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-kiwiroadie247-838c74" tvg-id="mjh-radio-rv-kiwiroadie247-838c74" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/RVA_Billy_Joel_600x600.jpg" group-title="Nz" radio="true" , The Billy Joel Collection
+https://i.mjh.nz/radio-rv-kiwiroadie247-838c74.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-kidsstories247-53d9ab" tvg-id="mjh-radio-rv-kidsstories247-53d9ab" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/Netsky_mixtap3_600x600.png" group-title="Nz" radio="true" , The Netsky Mixtape
+https://i.mjh.nz/radio-rv-kidsstories247-53d9ab.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-HomegrownKiwiHits247-7a1eee" tvg-id="mjh-radio-rv-HomegrownKiwiHits247-7a1eee" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/JB_600x600_1_.png" group-title="Nz" radio="true" , The Justin Bieber Mixtape
+https://i.mjh.nz/radio-rv-HomegrownKiwiHits247-7a1eee.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-breezelove247-a678f1" tvg-id="mjh-radio-rv-breezelove247-a678f1" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/Abba_600x600.png" group-title="Nz" radio="true" , The Abba Mixtape
+https://i.mjh.nz/radio-rv-breezelove247-a678f1.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-songstomakesandwichesto247-17d1ab" tvg-id="mjh-radio-rv-songstomakesandwichesto247-17d1ab" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/sam_smith_600x600.png" group-title="Nz" radio="true" , The Sam Smith Mixtape
+https://i.mjh.nz/radio-rv-songstomakesandwichesto247-17d1ab.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-magic-7a1778" tvg-id="mjh-radio-rv-magic-7a1778" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/MAG_New_600x600.png" group-title="Nz" radio="true" , Magic
+https://i.mjh.nz/radio-rv-magic-7a1778.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-morefm-c99a5b" tvg-id="mjh-radio-rv-morefm-c99a5b" tvg-logo="https://cdn.mediaworks.nz/aem/corporate/RV_x_MFM_600x600.png" group-title="Nz" radio="true" , MoreFM Dunedin - 97.4FM
+https://i.mjh.nz/radio-rv-morefm-c99a5b.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-thebreeze-b88109" tvg-id="mjh-radio-rv-thebreeze-b88109" tvg-logo="https://cdn.mediaworks.nz/aem/corporate/RV_x_BRZ_600x600.png" group-title="Nz" radio="true" , The Breeze Dunedin - 98.2FM
+https://i.mjh.nz/radio-rv-thebreeze-b88109.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-morefm-ab6dd6" tvg-id="mjh-radio-rv-morefm-ab6dd6" tvg-logo="https://cdn.mediaworks.nz/aem/corporate/RV_x_MFM_600x600.png" group-title="Nz" radio="true" , MoreFM Central Otago & Wānaka - 90.3/94.3/97.1/99.4FM
+https://i.mjh.nz/radio-rv-morefm-ab6dd6.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-thebreeze-927409" tvg-id="mjh-radio-rv-thebreeze-927409" tvg-logo="https://cdn.mediaworks.nz/aem/corporate/RV_x_BRZ_600x600.png" group-title="Nz" radio="true" , The Breeze Taranaki - 92.4FM
+https://i.mjh.nz/radio-rv-thebreeze-927409.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-theedge-ed1cce" tvg-id="mjh-radio-rv-theedge-ed1cce" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/EDG_RV_Station_600x600.png" group-title="Nz" radio="true" , The Edge Auckland - 94.2FM
+https://i.mjh.nz/radio-rv-theedge-ed1cce.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-morefm-2abf2d" tvg-id="mjh-radio-rv-morefm-2abf2d" tvg-logo="https://cdn.mediaworks.nz/aem/corporate/RV_x_MFM_600x600.png" group-title="Nz" radio="true" , MoreFM Auckland - 91.8FM
+https://i.mjh.nz/radio-rv-morefm-2abf2d.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-therock-808904" tvg-id="mjh-radio-rv-therock-808904" tvg-logo="https://cdn.mediaworks.nz/aem/corporate/RV_x_ROK_600x600.png" group-title="Nz" radio="true" , The Rock Auckland - 90.2FM
+https://i.mjh.nz/radio-rv-therock-808904.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-thebreeze-8a1465" tvg-id="mjh-radio-rv-thebreeze-8a1465" tvg-logo="https://cdn.mediaworks.nz/aem/corporate/RV_x_BRZ_600x600.png" group-title="Nz" radio="true" , The Breeze Auckland - 93.4FM
+https://i.mjh.nz/radio-rv-thebreeze-8a1465.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-theedge-39cf23" tvg-id="mjh-radio-rv-theedge-39cf23" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/EDG_RV_Station_600x600.png" group-title="Nz" radio="true" , The Edge Canterbury - 88.9FM
+https://i.mjh.nz/radio-rv-theedge-39cf23.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-magic-41bc5b" tvg-id="mjh-radio-rv-magic-41bc5b" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/MAG_New_600x600.png" group-title="Nz" radio="true" , Magic Canterbury 99.3FM
+https://i.mjh.nz/radio-rv-magic-41bc5b.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-morefm-325607" tvg-id="mjh-radio-rv-morefm-325607" tvg-logo="https://cdn.mediaworks.nz/aem/corporate/RV_x_MFM_600x600.png" group-title="Nz" radio="true" , MoreFM Canterbury - 92.1FM
+https://i.mjh.nz/radio-rv-morefm-325607.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-georgefm-198062" tvg-id="mjh-radio-rv-georgefm-198062" tvg-logo="https://cdn.mediaworks.nz/rova/Content/apps/images/RV_x_GRG_600x600.png" group-title="Nz" radio="true" , George Christchurch | Ōtautahi 95.3FM
+https://i.mjh.nz/radio-rv-georgefm-198062.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-therock-11f9fa" tvg-id="mjh-radio-rv-therock-11f9fa" tvg-logo="https://cdn.mediaworks.nz/aem/corporate/RV_x_ROK_600x600.png" group-title="Nz" radio="true" , The Rock Canterbury - 93.7FM
+https://i.mjh.nz/radio-rv-therock-11f9fa.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-mai-fm-f2d237" tvg-id="mjh-radio-rv-mai-fm-f2d237" tvg-logo="https://cdn.mediaworks.nz/mai-fm_auckland/Content/shows/images/1537252180508_mai-generic-announcer-artwork-600x600.png?width=[width]&height=[height]&crop=auto" group-title="Nz" radio="true" , Mai Canterbury | Waitaha 106.8FM
+https://i.mjh.nz/radio-rv-mai-fm-f2d237.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-thesound-173762" tvg-id="mjh-radio-rv-thesound-173762" tvg-logo="https://cdn.mediaworks.nz/thesound/Content/shows/images/default_app.jpg?width=[width]&height=[height]&crop=auto" group-title="Nz" radio="true" , The Sound Canterbury - 92.9FM
+https://i.mjh.nz/radio-rv-thesound-173762.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-thebreeze-587679" tvg-id="mjh-radio-rv-thebreeze-587679" tvg-logo="https://cdn.mediaworks.nz/aem/corporate/RV_x_BRZ_600x600.png" group-title="Nz" radio="true" , The Breeze Canterbury - 94.5FM / 100.5FM
+https://i.mjh.nz/radio-rv-thebreeze-587679.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-channelx-ae3620" tvg-id="mjh-radio-rv-channelx-ae3620" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/Channel_X_landscape_600x600.png" group-title="Nz" radio="true" , Channel X - Tauranga 100.6FM
+https://i.mjh.nz/radio-rv-channelx-ae3620.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-theedge-67dea7" tvg-id="mjh-radio-rv-theedge-67dea7" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/EDG_RV_Station_600x600.png" group-title="Nz" radio="true" , The Edge Whakatāne - 104.1 FM
+https://i.mjh.nz/radio-rv-theedge-67dea7.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-morefm-de9828" tvg-id="mjh-radio-rv-morefm-de9828" tvg-logo="https://cdn.mediaworks.nz/aem/corporate/RV_x_MFM_600x600.png" group-title="Nz" radio="true" , MoreFM Bay Of Plenty - 93.4FM
+https://i.mjh.nz/radio-rv-morefm-de9828.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-thesound-c4a1c1" tvg-id="mjh-radio-rv-thesound-c4a1c1" tvg-logo="https://cdn.mediaworks.nz/thesound/Content/shows/images/default_app.jpg?width=[width]&height=[height]&crop=auto" group-title="Nz" radio="true" , The Sound Whakatāne - 105.7FM
+https://i.mjh.nz/radio-rv-thesound-c4a1c1.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-thebreeze-001f2b" tvg-id="mjh-radio-rv-thebreeze-001f2b" tvg-logo="https://cdn.mediaworks.nz/aem/corporate/RV_x_BRZ_600x600.png" group-title="Nz" radio="true" , The Breeze Whakatāne - 92.1FM
+https://i.mjh.nz/radio-rv-thebreeze-001f2b.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-theedge-77b068" tvg-id="mjh-radio-rv-theedge-77b068" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/EDG_RV_Station_600x600.png" group-title="Nz" radio="true" , The Edge Gisborne - 99.7FM
+https://i.mjh.nz/radio-rv-theedge-77b068.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-morefm-d86725" tvg-id="mjh-radio-rv-morefm-d86725" tvg-logo="https://cdn.mediaworks.nz/aem/corporate/RV_x_MFM_600x600.png" group-title="Nz" radio="true" , MoreFM Gisborne/Wairoa - 90.1/98.9FM
+https://i.mjh.nz/radio-rv-morefm-d86725.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-therock-5e84c7" tvg-id="mjh-radio-rv-therock-5e84c7" tvg-logo="https://cdn.mediaworks.nz/aem/corporate/RV_x_ROK_600x600.png" group-title="Nz" radio="true" , The Rock Gisborne - 94.1FM
+https://i.mjh.nz/radio-rv-therock-5e84c7.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-mai-fm-d6d099" tvg-id="mjh-radio-rv-mai-fm-d6d099" tvg-logo="https://cdn.mediaworks.nz/mai-fm_auckland/Content/shows/images/1537252180508_mai-generic-announcer-artwork-600x600.png?width=[width]&height=[height]&crop=auto" group-title="Nz" radio="true" , Mai Gisborne | Tūranga-nui-a-Kiwa - 89.3FM
+https://i.mjh.nz/radio-rv-mai-fm-d6d099.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-thesound-be89b9" tvg-id="mjh-radio-rv-thesound-be89b9" tvg-logo="https://cdn.mediaworks.nz/thesound/Content/shows/images/default_app.jpg?width=[width]&height=[height]&crop=auto" group-title="Nz" radio="true" , The Sound Gisborne - 96.5FM
+https://i.mjh.nz/radio-rv-thesound-be89b9.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-thebreeze-f57946" tvg-id="mjh-radio-rv-thebreeze-f57946" tvg-logo="https://cdn.mediaworks.nz/aem/corporate/RV_x_BRZ_600x600.png" group-title="Nz" radio="true" , The Breeze Gisborne - 94.9FM
+https://i.mjh.nz/radio-rv-thebreeze-f57946.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-channelx-8a621b" tvg-id="mjh-radio-rv-channelx-8a621b" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/Channel_X_landscape_600x600.png" group-title="Nz" radio="true" , Channel X - Dunedin 100.6FM
+https://i.mjh.nz/radio-rv-channelx-8a621b.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-theedge-282162" tvg-id="mjh-radio-rv-theedge-282162" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/EDG_RV_Station_600x600.png" group-title="Nz" radio="true" , The Edge Dunedin - 91.8FM
+https://i.mjh.nz/radio-rv-theedge-282162.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-magic-d33543" tvg-id="mjh-radio-rv-magic-d33543" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/MAG_New_600x600.png" group-title="Nz" radio="true" , Magic Dunedin 99.8FM
+https://i.mjh.nz/radio-rv-magic-d33543.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-georgefm-2e0bd9" tvg-id="mjh-radio-rv-georgefm-2e0bd9" tvg-logo="https://cdn.mediaworks.nz/rova/Content/apps/images/RV_x_GRG_600x600.png" group-title="Nz" radio="true" , George Dunedin | Ōtepoti 96.6FM
+https://i.mjh.nz/radio-rv-georgefm-2e0bd9.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-therock-50af80" tvg-id="mjh-radio-rv-therock-50af80" tvg-logo="https://cdn.mediaworks.nz/aem/corporate/RV_x_ROK_600x600.png" group-title="Nz" radio="true" , The Rock Dunedin - 93.4FM
+https://i.mjh.nz/radio-rv-therock-50af80.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-thesound-8f69b3" tvg-id="mjh-radio-rv-thesound-8f69b3" tvg-logo="https://cdn.mediaworks.nz/thesound/Content/shows/images/default_app.jpg?width=[width]&height=[height]&crop=auto" group-title="Nz" radio="true" , The Sound Dunedin - 90.2FM
+https://i.mjh.nz/radio-rv-thesound-8f69b3.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-channelx-6e4a17" tvg-id="mjh-radio-rv-channelx-6e4a17" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/Channel_X_landscape_600x600.png" group-title="Nz" radio="true" , Channel X - Kapiti 99.1FM
+https://i.mjh.nz/radio-rv-channelx-6e4a17.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-theedge-932816" tvg-id="mjh-radio-rv-theedge-932816" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/EDG_RV_Station_600x600.png" group-title="Nz" radio="true" , The Edge Kapiti - 97.5FM
+https://i.mjh.nz/radio-rv-theedge-932816.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-magic-b06a4a" tvg-id="mjh-radio-rv-magic-b06a4a" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/MAG_New_600x600.png" group-title="Nz" radio="true" , Magic Kapiti 95.1FM
+https://i.mjh.nz/radio-rv-magic-b06a4a.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-morefm-db9856" tvg-id="mjh-radio-rv-morefm-db9856" tvg-logo="https://cdn.mediaworks.nz/aem/corporate/RV_x_MFM_600x600.png" group-title="Nz" radio="true" , MoreFM Horowhenua/Kapiti - 90.3FM
+https://i.mjh.nz/radio-rv-morefm-db9856.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-georgefm-703508" tvg-id="mjh-radio-rv-georgefm-703508" tvg-logo="https://cdn.mediaworks.nz/rova/Content/apps/images/RV_x_GRG_600x600.png" group-title="Nz" radio="true" , George Wellington | Te Whanganui-a-Tara 106.7FM
+https://i.mjh.nz/radio-rv-georgefm-703508.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-therock-d3508c" tvg-id="mjh-radio-rv-therock-d3508c" tvg-logo="https://cdn.mediaworks.nz/aem/corporate/RV_x_ROK_600x600.png" group-title="Nz" radio="true" , The Rock Kapiti - 91.9FM
+https://i.mjh.nz/radio-rv-therock-d3508c.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-mai-fm-bccdaa" tvg-id="mjh-radio-rv-mai-fm-bccdaa" tvg-logo="https://cdn.mediaworks.nz/mai-fm_auckland/Content/shows/images/1537252180508_mai-generic-announcer-artwork-600x600.png?width=[width]&height=[height]&crop=auto" group-title="Nz" radio="true" , Mai Wellington | Te Whanganui-a-Tara 100.5FM
+https://i.mjh.nz/radio-rv-mai-fm-bccdaa.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-thesound-88e2e4" tvg-id="mjh-radio-rv-thesound-88e2e4" tvg-logo="https://cdn.mediaworks.nz/thesound/Content/shows/images/default_app.jpg?width=[width]&height=[height]&crop=auto" group-title="Nz" radio="true" , The Sound Kapiti - 94.3FM
+https://i.mjh.nz/radio-rv-thesound-88e2e4.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-thebreeze-789299" tvg-id="mjh-radio-rv-thebreeze-789299" tvg-logo="https://cdn.mediaworks.nz/aem/corporate/RV_x_BRZ_600x600.png" group-title="Nz" radio="true" , The Breeze Kapiti - 100.7FM
+https://i.mjh.nz/radio-rv-thebreeze-789299.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-channelx-a838ba" tvg-id="mjh-radio-rv-channelx-a838ba" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/Channel_X_landscape_600x600.png" group-title="Nz" radio="true" , Channel X - Hawke's Bay 106.3FM
+https://i.mjh.nz/radio-rv-channelx-a838ba.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-theedge-3a0c74" tvg-id="mjh-radio-rv-theedge-3a0c74" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/EDG_RV_Station_600x600.png" group-title="Nz" radio="true" , The Edge Hawkes Bay - 98.3FM
+https://i.mjh.nz/radio-rv-theedge-3a0c74.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-magic-b1d476" tvg-id="mjh-radio-rv-magic-b1d476" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/MAG_New_600x600.png" group-title="Nz" radio="true" , Magic Hawke's Bay 92.7FM
+https://i.mjh.nz/radio-rv-magic-b1d476.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-morefm-356385" tvg-id="mjh-radio-rv-morefm-356385" tvg-logo="https://cdn.mediaworks.nz/aem/corporate/RV_x_MFM_600x600.png" group-title="Nz" radio="true" , MoreFM Hawke's Bay - 88.7FM
+https://i.mjh.nz/radio-rv-morefm-356385.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-therock-5d2465" tvg-id="mjh-radio-rv-therock-5d2465" tvg-logo="https://cdn.mediaworks.nz/aem/corporate/RV_x_ROK_600x600.png" group-title="Nz" radio="true" , The Rock Hawkes Bay - 95.1FM
+https://i.mjh.nz/radio-rv-therock-5d2465.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-mai-fm-71dd76" tvg-id="mjh-radio-rv-mai-fm-71dd76" tvg-logo="https://cdn.mediaworks.nz/mai-fm_auckland/Content/shows/images/1537252180508_mai-generic-announcer-artwork-600x600.png?width=[width]&height=[height]&crop=auto" group-title="Nz" radio="true" , Mai Hawkes Bay | Te Matau-a-Māui 105.5FM
+https://i.mjh.nz/radio-rv-mai-fm-71dd76.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-thesound-a52bb5" tvg-id="mjh-radio-rv-thesound-a52bb5" tvg-logo="https://cdn.mediaworks.nz/thesound/Content/shows/images/default_app.jpg?width=[width]&height=[height]&crop=auto" group-title="Nz" radio="true" , The Sound Hawkes Bay - 91.9FM
+https://i.mjh.nz/radio-rv-thesound-a52bb5.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-thebreeze-9784f8" tvg-id="mjh-radio-rv-thebreeze-9784f8" tvg-logo="https://cdn.mediaworks.nz/aem/corporate/RV_x_BRZ_600x600.png" group-title="Nz" radio="true" , The Breeze Hawkes Bay - 97.5FM
+https://i.mjh.nz/radio-rv-thebreeze-9784f8.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-channelx-76f9d4" tvg-id="mjh-radio-rv-channelx-76f9d4" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/Channel_X_landscape_600x600.png" group-title="Nz" radio="true" , Channel X - Manawatu 94.6FM
+https://i.mjh.nz/radio-rv-channelx-76f9d4.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-theedge-78651a" tvg-id="mjh-radio-rv-theedge-78651a" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/EDG_RV_Station_600x600.png" group-title="Nz" radio="true" , The Edge Manawatu - 93.0FM
+https://i.mjh.nz/radio-rv-theedge-78651a.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-magic-4e3441" tvg-id="mjh-radio-rv-magic-4e3441" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/MAG_New_600x600.png" group-title="Nz" radio="true" , Magic Manawatu 104.2FM
+https://i.mjh.nz/radio-rv-magic-4e3441.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-morefm-e05a97" tvg-id="mjh-radio-rv-morefm-e05a97" tvg-logo="https://cdn.mediaworks.nz/aem/corporate/RV_x_MFM_600x600.png" group-title="Nz" radio="true" , MoreFM Manawatu - 92.2FM
+https://i.mjh.nz/radio-rv-morefm-e05a97.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-georgefm-bd21c9" tvg-id="mjh-radio-rv-georgefm-bd21c9" tvg-logo="https://cdn.mediaworks.nz/rova/Content/apps/images/RV_x_GRG_600x600.png" group-title="Nz" radio="true" , George Manawatu 107.1FM
+https://i.mjh.nz/radio-rv-georgefm-bd21c9.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-therock-43e5c5" tvg-id="mjh-radio-rv-therock-43e5c5" tvg-logo="https://cdn.mediaworks.nz/aem/corporate/RV_x_ROK_600x600.png" group-title="Nz" radio="true" , The Rock Manawatu - 95.4FM
+https://i.mjh.nz/radio-rv-therock-43e5c5.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-mai-fm-8cd44a" tvg-id="mjh-radio-rv-mai-fm-8cd44a" tvg-logo="https://cdn.mediaworks.nz/mai-fm_auckland/Content/shows/images/1537252180508_mai-generic-announcer-artwork-600x600.png?width=[width]&height=[height]&crop=auto" group-title="Nz" radio="true" , Mai Manawatu 97.0FM
+https://i.mjh.nz/radio-rv-mai-fm-8cd44a.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-thesound-000ca3" tvg-id="mjh-radio-rv-thesound-000ca3" tvg-logo="https://cdn.mediaworks.nz/thesound/Content/shows/images/default_app.jpg?width=[width]&height=[height]&crop=auto" group-title="Nz" radio="true" , The Sound Manawatu - 93.8FM
+https://i.mjh.nz/radio-rv-thesound-000ca3.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-thebreeze-328b2b" tvg-id="mjh-radio-rv-thebreeze-328b2b" tvg-logo="https://cdn.mediaworks.nz/aem/corporate/RV_x_BRZ_600x600.png" group-title="Nz" radio="true" , The Breeze Manawatu - 98.6FM
+https://i.mjh.nz/radio-rv-thebreeze-328b2b.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-channelx-c69209" tvg-id="mjh-radio-rv-channelx-c69209" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/Channel_X_landscape_600x600.png" group-title="Nz" radio="true" , Channel X - Blenheim 95.3FM
+https://i.mjh.nz/radio-rv-channelx-c69209.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-theedge-dc7b43" tvg-id="mjh-radio-rv-theedge-dc7b43" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/EDG_RV_Station_600x600.png" group-title="Nz" radio="true" , The Edge Marlborough - 104.9FM
+https://i.mjh.nz/radio-rv-theedge-dc7b43.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-magic-309763" tvg-id="mjh-radio-rv-magic-309763" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/MAG_New_600x600.png" group-title="Nz" radio="true" , Magic Marlborough 105.7FM
+https://i.mjh.nz/radio-rv-magic-309763.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-morefm-9bb026" tvg-id="mjh-radio-rv-morefm-9bb026" tvg-logo="https://cdn.mediaworks.nz/aem/corporate/RV_x_MFM_600x600.png" group-title="Nz" radio="true" , MoreFM Marlborough - 92.9/94.7/89.9FM
+https://i.mjh.nz/radio-rv-morefm-9bb026.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-therock-dea603" tvg-id="mjh-radio-rv-therock-dea603" tvg-logo="https://cdn.mediaworks.nz/aem/corporate/RV_x_ROK_600x600.png" group-title="Nz" radio="true" , The Rock Marlborough - 91.3FM
+https://i.mjh.nz/radio-rv-therock-dea603.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-thesound-4c2eef" tvg-id="mjh-radio-rv-thesound-4c2eef" tvg-logo="https://cdn.mediaworks.nz/thesound/Content/shows/images/default_app.jpg?width=[width]&height=[height]&crop=auto" group-title="Nz" radio="true" , The Sound Marlborough - 96.1FM
+https://i.mjh.nz/radio-rv-thesound-4c2eef.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-thebreeze-e6cf76" tvg-id="mjh-radio-rv-thebreeze-e6cf76" tvg-logo="https://cdn.mediaworks.nz/aem/corporate/RV_x_BRZ_600x600.png" group-title="Nz" radio="true" , The Breeze Marlborough - 89.7FM
+https://i.mjh.nz/radio-rv-thebreeze-e6cf76.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-channelx-403cea" tvg-id="mjh-radio-rv-channelx-403cea" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/Channel_X_landscape_600x600.png" group-title="Nz" radio="true" , Channel X - Nelson 96.0FM
+https://i.mjh.nz/radio-rv-channelx-403cea.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-theedge-6cd1e9" tvg-id="mjh-radio-rv-theedge-6cd1e9" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/EDG_RV_Station_600x600.png" group-title="Nz" radio="true" , The Edge Nelson - 88.8FM
+https://i.mjh.nz/radio-rv-theedge-6cd1e9.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-magic-6bff33" tvg-id="mjh-radio-rv-magic-6bff33" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/MAG_New_600x600.png" group-title="Nz" radio="true" , Magic Nelson 99.2FM
+https://i.mjh.nz/radio-rv-magic-6bff33.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-morefm-0411e9" tvg-id="mjh-radio-rv-morefm-0411e9" tvg-logo="https://cdn.mediaworks.nz/aem/corporate/RV_x_MFM_600x600.png" group-title="Nz" radio="true" , MoreFM Nelson - 92.8FM
+https://i.mjh.nz/radio-rv-morefm-0411e9.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-georgefm-5136e9" tvg-id="mjh-radio-rv-georgefm-5136e9" tvg-logo="https://cdn.mediaworks.nz/rova/Content/apps/images/RV_x_GRG_600x600.png" group-title="Nz" radio="true" , George Nelson | Whakatū 95.2FM
+https://i.mjh.nz/radio-rv-georgefm-5136e9.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-therock-2d6807" tvg-id="mjh-radio-rv-therock-2d6807" tvg-logo="https://cdn.mediaworks.nz/aem/corporate/RV_x_ROK_600x600.png" group-title="Nz" radio="true" , The Rock Nelson - 94.4FM
+https://i.mjh.nz/radio-rv-therock-2d6807.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-thesound-9fa6dc" tvg-id="mjh-radio-rv-thesound-9fa6dc" tvg-logo="https://cdn.mediaworks.nz/thesound/Content/shows/images/default_app.jpg?width=[width]&height=[height]&crop=auto" group-title="Nz" radio="true" , The Sound Nelson - 98.4FM
+https://i.mjh.nz/radio-rv-thesound-9fa6dc.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-thebreeze-9c503a" tvg-id="mjh-radio-rv-thebreeze-9c503a" tvg-logo="https://cdn.mediaworks.nz/aem/corporate/RV_x_BRZ_600x600.png" group-title="Nz" radio="true" , The Breeze Nelson - 97.6FM
+https://i.mjh.nz/radio-rv-thebreeze-9c503a.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-theedge-3485ad" tvg-id="mjh-radio-rv-theedge-3485ad" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/EDG_RV_Station_600x600.png" group-title="Nz" radio="true" , The Edge Northland - 94.0FM
+https://i.mjh.nz/radio-rv-theedge-3485ad.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-morefm-26242e" tvg-id="mjh-radio-rv-morefm-26242e" tvg-logo="https://cdn.mediaworks.nz/aem/corporate/RV_x_MFM_600x600.png" group-title="Nz" radio="true" , MoreFM Northland - 91.6FM
+https://i.mjh.nz/radio-rv-morefm-26242e.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-therock-1d3b7f" tvg-id="mjh-radio-rv-therock-1d3b7f" tvg-logo="https://cdn.mediaworks.nz/aem/corporate/RV_x_ROK_600x600.png" group-title="Nz" radio="true" , The Rock Northland - 90.0FM
+https://i.mjh.nz/radio-rv-therock-1d3b7f.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-mai-fm-0e2104" tvg-id="mjh-radio-rv-mai-fm-0e2104" tvg-logo="https://cdn.mediaworks.nz/mai-fm_auckland/Content/shows/images/1537252180508_mai-generic-announcer-artwork-600x600.png?width=[width]&height=[height]&crop=auto" group-title="Nz" radio="true" , Mai Northland | Te Tai Tokerau 107.3FM
+https://i.mjh.nz/radio-rv-mai-fm-0e2104.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-thesound-cb7f65" tvg-id="mjh-radio-rv-thesound-cb7f65" tvg-logo="https://cdn.mediaworks.nz/thesound/Content/shows/images/default_app.jpg?width=[width]&height=[height]&crop=auto" group-title="Nz" radio="true" , The Sound Northland - 98.0FM
+https://i.mjh.nz/radio-rv-thesound-cb7f65.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-thebreeze-a8b8ad" tvg-id="mjh-radio-rv-thebreeze-a8b8ad" tvg-logo="https://cdn.mediaworks.nz/aem/corporate/RV_x_BRZ_600x600.png" group-title="Nz" radio="true" , The Breeze Northland - 90.8FM / 100.7FM
+https://i.mjh.nz/radio-rv-thebreeze-a8b8ad.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-channelx-3fcaa7" tvg-id="mjh-radio-rv-channelx-3fcaa7" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/Channel_X_landscape_600x600.png" group-title="Nz" radio="true" , Channel X - Queenstown 91.2FM
+https://i.mjh.nz/radio-rv-channelx-3fcaa7.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-theedge-053ea5" tvg-id="mjh-radio-rv-theedge-053ea5" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/EDG_RV_Station_600x600.png" group-title="Nz" radio="true" , The Edge Queenstown - 95.2FM
+https://i.mjh.nz/radio-rv-theedge-053ea5.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-magic-169aef" tvg-id="mjh-radio-rv-magic-169aef" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/MAG_New_600x600.png" group-title="Nz" radio="true" , Magic Queenstown 104AM
+https://i.mjh.nz/radio-rv-magic-169aef.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-morefm-7fffb9" tvg-id="mjh-radio-rv-morefm-7fffb9" tvg-logo="https://cdn.mediaworks.nz/aem/corporate/RV_x_MFM_600x600.png" group-title="Nz" radio="true" , MoreFM Queenstown - 92.0FM
+https://i.mjh.nz/radio-rv-morefm-7fffb9.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-georgefm-e47a6f" tvg-id="mjh-radio-rv-georgefm-e47a6f" tvg-logo="https://cdn.mediaworks.nz/rova/Content/apps/images/RV_x_GRG_600x600.png" group-title="Nz" radio="true" , George Queenstown | Tāhuna 96.8FM
+https://i.mjh.nz/radio-rv-georgefm-e47a6f.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-therock-28221f" tvg-id="mjh-radio-rv-therock-28221f" tvg-logo="https://cdn.mediaworks.nz/aem/corporate/RV_x_ROK_600x600.png" group-title="Nz" radio="true" , The Rock Queenstown - 100.0FM
+https://i.mjh.nz/radio-rv-therock-28221f.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-thesound-bd06c1" tvg-id="mjh-radio-rv-thesound-bd06c1" tvg-logo="https://cdn.mediaworks.nz/thesound/Content/shows/images/default_app.jpg?width=[width]&height=[height]&crop=auto" group-title="Nz" radio="true" , The Sound Queenstown - 97.6FM
+https://i.mjh.nz/radio-rv-thesound-bd06c1.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-thebreeze-e620aa" tvg-id="mjh-radio-rv-thebreeze-e620aa" tvg-logo="https://cdn.mediaworks.nz/aem/corporate/RV_x_BRZ_600x600.png" group-title="Nz" radio="true" , The Breeze Queenstown - 99.2FM
+https://i.mjh.nz/radio-rv-thebreeze-e620aa.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-morefm-9a4715" tvg-id="mjh-radio-rv-morefm-9a4715" tvg-logo="https://cdn.mediaworks.nz/aem/corporate/RV_x_MFM_600x600.png" group-title="Nz" radio="true" , MoreFM Rodney - 88.9/97.8FM
+https://i.mjh.nz/radio-rv-morefm-9a4715.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-therock-d034f6" tvg-id="mjh-radio-rv-therock-d034f6" tvg-logo="https://cdn.mediaworks.nz/aem/corporate/RV_x_ROK_600x600.png" group-title="Nz" radio="true" , The Rock Rodney - 100.1FM
+https://i.mjh.nz/radio-rv-therock-d034f6.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-thesound-18ef96" tvg-id="mjh-radio-rv-thesound-18ef96" tvg-logo="https://cdn.mediaworks.nz/thesound/Content/shows/images/default_app.jpg?width=[width]&height=[height]&crop=auto" group-title="Nz" radio="true" , The Sound Rodney - 92.9FM
+https://i.mjh.nz/radio-rv-thesound-18ef96.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-thebreeze-f831c9" tvg-id="mjh-radio-rv-thebreeze-f831c9" tvg-logo="https://cdn.mediaworks.nz/aem/corporate/RV_x_BRZ_600x600.png" group-title="Nz" radio="true" , The Breeze Rodney 104.9FM
+https://i.mjh.nz/radio-rv-thebreeze-f831c9.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-channelx-1196e7" tvg-id="mjh-radio-rv-channelx-1196e7" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/Channel_X_landscape_600x600.png" group-title="Nz" radio="true" , Channel X - Rotorua 95.1FM
+https://i.mjh.nz/radio-rv-channelx-1196e7.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-theedge-89599c" tvg-id="mjh-radio-rv-theedge-89599c" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/EDG_RV_Station_600x600.png" group-title="Nz" radio="true" , The Edge Rotorua 99.9FM
+https://i.mjh.nz/radio-rv-theedge-89599c.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-magic-371640" tvg-id="mjh-radio-rv-magic-371640" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/MAG_New_600x600.png" group-title="Nz" radio="true" , Magic Rotorua 100.7FM
+https://i.mjh.nz/radio-rv-magic-371640.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-morefm-4cb617" tvg-id="mjh-radio-rv-morefm-4cb617" tvg-logo="https://cdn.mediaworks.nz/aem/corporate/RV_x_MFM_600x600.png" group-title="Nz" radio="true" , MoreFM Rotorua - 95.9FM/89.2FM
+https://i.mjh.nz/radio-rv-morefm-4cb617.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-therock-342bd4" tvg-id="mjh-radio-rv-therock-342bd4" tvg-logo="https://cdn.mediaworks.nz/aem/corporate/RV_x_ROK_600x600.png" group-title="Nz" radio="true" , The Rock Rotorua - 92.7FM
+https://i.mjh.nz/radio-rv-therock-342bd4.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-mai-fm-af50cf" tvg-id="mjh-radio-rv-mai-fm-af50cf" tvg-logo="https://cdn.mediaworks.nz/mai-fm_auckland/Content/shows/images/1537252180508_mai-generic-announcer-artwork-600x600.png?width=[width]&height=[height]&crop=auto" group-title="Nz" radio="true" , Mai Rotorua 105.5FM
+https://i.mjh.nz/radio-rv-mai-fm-af50cf.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-rv-thesound-3c6dfb" tvg-id="mjh-radio-rv-thesound-3c6dfb" tvg-logo="https://cdn.mediaworks.nz/thesound/Content/shows/images/default_app.jpg?width=[width]&height=[height]&crop=auto" group-title="Nz" radio="true" , The Sound Rotorua - 91.1FM
+https://i.mjh.nz/radio-rv-thesound-3c6dfb.m3u8
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-640205c40e1daf16b299567e.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=SEh77JyJ5VSj77p-svsy
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5f6b8e5900b0950040d0f2af" tvg-id="5e20b730f2f8d5003d739db7-5f6b8e5900b0950040d0f2af" tvg-logo="https://provider-static.plex.tv/a/epg/channels/logos/gracenote/ab6d7a8e541e81da49e5ce1643a2d282.png" group-title="USA" , Cheddar News
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f6b8e5900b0950040d0f2af.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=SEh77JyJ5VSj77p-svsy
